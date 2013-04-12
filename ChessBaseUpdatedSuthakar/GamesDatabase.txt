@@ -1,0 +1,2552 @@
+:1:Adams, Michael:Sedgwick, David:1:
+:2:Adams, Michael:Dickenson, Neil F:1:
+:3:Hebden, Mark:Adams, Michael:1:
+:4:Pasman, Michael:Adams, Michael:-1:
+:5:Adams, Michael:Levitt, Jonathan:0:
+:6:Adams, Michael:Saeed, Saeed Ahmed:1:
+:7:Adams, Michael:Singh, Sukh Dave:0:
+:8:Abayasekera, Roger:Adams, Michael:1:
+:9:Adams, Michael:Jackson, Sheila:0:
+:10:Muir, Andrew J:Adams, Michael:0:
+:11:Adams, Michael:Mooney, David P:1:
+:12:Bowden, Karl:Adams, Michael:0:
+:13:Adams, Michael:Waddingham, Graham A:0:
+:14:Wiley, Tom E:Adams, Michael:-1:
+:15:Adams, Michael:McNab, Colin Anderson:-1:
+:16:Barua, Dibyendu:Adams, Michael:1:
+:17:Adams, Michael:Hindle, Owen M:0:
+:18:Bowden, Karl:Adams, Michael:1:
+:19:Adams, Michael:Blatny, Pavel:-1:
+:20:Anand, Viswanathan:Adams, Michael:1:
+:21:Adams, Michael:Hennigan, Michael:1:
+:22:Adams, Michael:Wells, Peter K:0:
+:23:Emms, John M:Adams, Michael:0:
+:24:MacFarlane, D.:Adams, Michael:1:
+:25:Adams, Michael:Schandorff, Lars:0:
+:26:Buckmire, Ron:Adams, Michael:1:
+:27:Adams, Michael:Ludvigsen, Frode:1:
+:28:Levitt, Jonathan:Adams, Michael:-1:
+:29:Adams, Michael:Bowden, Karl:1:
+:30:Norwood, David:Adams, Michael:0:
+:31:Adams, Michael:Kosten, Anthony C:0:
+:32:Adams, Michael:Conquest, Stuart:1:
+:33:Plaskett, Jim:Adams, Michael:0:
+:34:Watson, William N:Adams, Michael:-1:
+:35:Adams, Michael:Mestel, A Jonathan:-1:
+:36:Prasad, Devaki V:Adams, Michael:0:
+:37:Adams, Michael:McDonald, Neil R:0:
+:38:Adams, Michael:Hodgson, Julian M:0:
+:39:Adams, Michael:Basagic, Zlatko:1:
+:40:Adams, Michael:Szekely, Peter:1:
+:41:Fishbein, Alexander:Adams, Michael:0:
+:42:Jacobs, Byron A:Adams, Michael:-1:
+:43:Adams, Michael:Mannion, Stephen R:1:
+:44:Adams, Michael:Whiteley, Andrew J:1:
+:45:Adams, Michael:Lane, Gary W:0:
+:46:Adams, Michael:Fatin, Tarek:-1:
+:47:Adams, Michael:Arkell, Keith C:0:
+:48:Martin, Andrew D:Adams, Michael:0:
+:49:Rayner, Francis:Adams, Michael:-1:
+:50:Vlahos, Kiriakos:Adams, Michael:-1:
+:51:Summerscale, Aaron:Adams, Michael:-1:
+:52:Anand, Viswanathan:Adams, Michael:1:
+:53:Dunnington, Angus J:Adams, Michael:-1:
+:54:Adams, Michael:Short, Nigel D:-1:
+:55:Adams, Michael:Plaskett, Jim:1:
+:56:Adams, Michael:Martin, Andrew D:1:
+:57:Adams, Michael:King, Daniel J:0:
+:58:Adams, Michael:Howell, James C:0:
+:59:Adams, Michael:Carton, Niall:1:
+:60:Pritchett, Craig William:Adams, Michael:1:
+:61:Hergott, Deen:Adams, Michael:-1:
+:62:Hodgson, Julian M:Adams, Michael:-1:
+:63:Ivanov, Igor V:Adams, Michael:1:
+:64:McNab, Colin Anderson:Adams, Michael:-1:
+:65:Cooper, P.:Adams, Michael:-1:
+:66:Adams, Michael:Hernandez, Eduardo:1:
+:67:Ivanchuk, Vassily:Adams, Michael:0:
+:68:Adams, Michael:Polgar, Zsuzsa:0:
+:69:Blatny, Pavel:Adams, Michael:1:
+:70:Adams, Michael:Lin Weiguo:-1:
+:71:Canfell, Gregory:Adams, Michael:-1:
+:72:Adams, Michael:Comas Fabrego, Luis:1:
+:73:Serper, Grigory:Adams, Michael:1:
+:74:Adams, Michael:Paneque, Pedro:1:
+:75:Hansen, Lars Bo:Adams, Michael:1:
+:76:Adams, Michael:Rachels, Stuart:1:
+:77:Manor, Ilan:Adams, Michael:1:
+:78:Adams, Michael:Aschwanden, Franz Beat:1:
+:79:Djurhuus, Rune:Adams, Michael:1:
+:80:Van der Werf, Mark:Adams, Michael:0:
+:81:Adams, Michael:MacKay, Ian D:1:
+:82:Adams, Michael:Van Wely, Loek:0:
+:83:Hansen, Mads Smith:Adams, Michael:0:
+:84:Adams, Michael:Thorhallsson, Throstur:1:
+:85:Adams, Michael:Wahls, Matthias:-1:
+:86:Manca, Federico:Adams, Michael:-1:
+:87:Adams, Michael:Gelfand, Boris:-1:
+:88:Horvath, Csaba:Adams, Michael:0:
+:89:Dreev, Alexey:Adams, Michael:1:
+:90:Adams, Michael:Kula, Robert:0:
+:91:Adams, Michael:Dunnington, Angus J:0:
+:92:Adams, Michael:Bell, Stephen:1:
+:93:Adams, Michael:Chandler, Murray G:0:
+:94:Adams, Michael:Conquest, Stuart:-1:
+:95:Adams, Michael:Beaumont, Chris:-1:
+:96:Adams, Michael:Pigott, John C:1:
+:97:Arkell, Keith C:Adams, Michael:-1:
+:98:Kosten, Anthony C:Adams, Michael:-1:
+:99:Morrison, Graham:Adams, Michael:-1:
+:100:Mortazavi, Ali:Adams, Michael:-1:
+:101:Murshed, Niaz:Adams, Michael:0:
+:102:Kasparov, Gary:Adams, Michael:-1:
+:103:Adams, Michael:Britton, Richard:1:
+:104:Adams, Michael:Kinsman, Andrew PH:-1:
+:105:Adams, Michael:Hebden, Mark:-1:
+:106:Adams, Michael:Przewoznik, Jan:1:
+:107:Adams, Michael:Sadler, Matthew:1:
+:108:Chandler, Murray G:Adams, Michael:-1:
+:109:Erker, Egon:Adams, Michael:-1:
+:110:House, Glenn:Adams, Michael:-1:
+:111:Larsson, K.:Adams, Michael:-1:
+:112:MacKay, Ian D:Adams, Michael:0:
+:113:Adams, Michael:Hodgson, Julian M:1:
+:114:Adams, Michael:Kosten, Anthony C:1:
+:115:Adams, Michael:Kudrin, Sergey:0:
+:116:Adams, Michael:Westerinen, Heikki MJ:1:
+:117:King, Daniel J:Adams, Michael:0:
+:118:McNab, Colin Anderson:Adams, Michael:-1:
+:119:Norwood, David:Adams, Michael:0:
+:120:Rogers, Ian:Adams, Michael:0:
+:121:Garcia Palermo, Carlos:Adams, Michael:1:
+:122:Navrotescu, Catalin:Adams, Michael:1:
+:123:Serper, Grigory:Adams, Michael:0:
+:124:Gdanski, Jacek:Adams, Michael:-1:
+:125:Adams, Michael:Agnos, Demetrios:1:
+:126:Adams, Michael:Rechlis, Gad:1:
+:127:Adams, Michael:Quillan, Gary:1:
+:128:Adams, Michael:Bellini, Fabio:1:
+:129:Adams, Michael:Arnason, Jon L:1:
+:130:Spassky, Boris V:Adams, Michael:0:
+:131:Miles, Anthony J:Adams, Michael:1:
+:132:Larsen, Bent:Adams, Michael:0:
+:133:Csom, Istvan:Adams, Michael:0:
+:134:Andersson, Ulf:Adams, Michael:0:
+:135:Adams, Michael:Tal, Mihail:0:
+:136:Adams, Michael:Spassky, Boris V:-1:
+:137:Adams, Michael:Larsen, Bent:1:
+:138:Adams, Michael:Csom, Istvan:1:
+:139:Adams, Michael:Andersson, Ulf:0:
+:140:Koch, Jean Rene:Adams, Michael:0:
+:141:Neiman, Emmanuel:Adams, Michael:-1:
+:142:Adams, Michael:Vaisman, Volodia:1:
+:143:Adams, Michael:Seret, Jean Luc:1:
+:144:Adams, Michael:Lautier, Joel:-1:
+:145:Adams, Michael:Hebden, Mark:-1:
+:146:Adams, Michael:Dezan, Pierre:1:
+:147:Adams, Michael:Bricard, Emmanuel:1:
+:148:Adams, Michael:Adrian, Claude:1:
+:149:Guidez, Yann Michel:Adams, Michael:-1:
+:150:Denis, Laurent:Adams, Michael:-1:
+:151:Adams, Michael:Fernandes, Antonio:1:
+:152:Adams, Michael:Lautier, Joel:0:
+:153:Wojtkiewicz, Aleksander:Adams, Michael:1:
+:154:Adams, Michael:Hort, Vlastimil:-1:
+:155:Polgar, Judit:Adams, Michael:1:
+:156:Beliavsky, Alexander G:Adams, Michael:1:
+:157:Adams, Michael:Jussupow, Artur:0:
+:158:Adams, Michael:Nikolic, Predrag:0:
+:159:Adams, Michael:Dolmatov, Sergey:0:
+:160:Adams, Michael:Speelman, Jonathan S:0:
+:161:Adams, Michael:Spraggett, Kevin:1:
+:162:Chandler, Murray G:Adams, Michael:-1:
+:163:Dolmatov, Sergey:Adams, Michael:1:
+:164:Adams, Michael:Chandler, Murray G:-1:
+:165:Adams, Michael:Gulko, Boris F:0:
+:166:Gulko, Boris F:Adams, Michael:0:
+:167:Nikolic, Predrag:Adams, Michael:1:
+:168:Speelman, Jonathan S:Adams, Michael:0:
+:169:Spraggett, Kevin:Adams, Michael:1:
+:170:Jussupow, Artur:Adams, Michael:0:
+:171:Hodgson, Julian M:Adams, Michael:0:
+:172:Adams, Michael:Tozer, Richard:-1:
+:173:Burgess, Graham:Adams, Michael:-1:
+:174:Chernin, Alexander:Adams, Michael:0:
+:175:Kamsky, Gata:Adams, Michael:-1:
+:176:Adams, Michael:Arkell, Keith C:0:
+:177:Adams, Michael:Hodgson, Julian M:0:
+:178:Adams, Michael:Lalic, Susan:1:
+:179:Adams, Michael:Motwani, Paul:-1:
+:180:Adams, Michael:Suba, Mihai:1:
+:181:Adams, Michael:Wilder, Michael:0:
+:182:Adams, Michael:Wolff, Patrick G:1:
+:183:Davies, Nigel R:Adams, Michael:0:
+:184:King, Daniel J:Adams, Michael:1:
+:185:Larsen, Bent:Adams, Michael:1:
+:186:McNab, Colin Anderson:Adams, Michael:-1:
+:187:Sadler, Matthew:Adams, Michael:1:
+:188:Watson, William N:Adams, Michael:0:
+:189:Adams, Michael:Ravikumar, Vaidyanathan:1:
+:190:Lodhi, Mahmood:Adams, Michael:1:
+:191:Adams, Michael:Holland, Christopher:1:
+:192:Large, Peter G:Adams, Michael:-1:
+:193:Watson, William N:Adams, Michael:0:
+:194:Murshed, Niaz:Adams, Michael:1:
+:195:McNab, Colin Anderson:Adams, Michael:0:
+:196:Kosten, Anthony C:Adams, Michael:0:
+:197:Adams, Michael:Levitt, Jonathan:0:
+:198:Adams, Michael:Hebden, Mark:1:
+:199:Adams, Michael:Conquest, Stuart:1:
+:200:Adams, Michael:Bronstein, David I:1:
+:201:Adams, Michael:Barua, Dibyendu:0:
+:202:Adams, Michael:Dunnington, Angus J:1:
+:203:Adams, Michael:Matulovic, Milan:0:
+:204:Adams, Michael:Pergericht, Daniel:1:
+:205:Adams, Michael:Polaczek, Richard:0:
+:206:Adams, Michael:Rajkovic, Dusan:1:
+:207:Dutreeuw, Marc:Adams, Michael:-1:
+:208:Adams, Michael:Wells, Peter K:0:
+:209:Mortazavi, Ali:Adams, Michael:0:
+:210:Shrentzel, Mordechai:Adams, Michael:-1:
+:211:Hug, Werner:Adams, Michael:0:
+:212:Adams, Michael:Damljanovic, Branko:0:
+:213:Adams, Michael:Ivanchuk, Vassily:-1:
+:214:Adams, Michael:Garcia Gonzales, Guillermo:1:
+:215:Sosonko, Gennadi:Adams, Michael:0:
+:216:Denker, Arnold S:Adams, Michael:-1:
+:217:Adams, Michael:Voiska, Margarita:1:
+:218:Miles, Anthony J:Adams, Michael:-1:
+:219:Adams, Michael:Psakhis, Lev:1:
+:220:Gelfand, Boris:Adams, Michael:1:
+:221:Adams, Michael:Gavrikov, Viktor:1:
+:222:Gurevich, Mikhail:Adams, Michael:1:
+:223:Adams, Michael:Malaniuk, Vladimir P:-1:
+:224:Damljanovic, Branko:Adams, Michael:0:
+:225:Mordhorst, Henning:Adams, Michael:-1:
+:226:Adams, Michael:Demarre, Jacques:1:
+:227:Sokolowski, Stanislaw:Adams, Michael:-1:
+:228:Adams, Michael:Kosten, Anthony C:0:
+:229:Adams, Michael:Petrovic, Petar:0:
+:230:De Lagontrie, Jean:Adams, Michael:-1:
+:231:Adams, Michael:Crawley, Gavin:1:
+:232:Plaskett, Jim:Adams, Michael:-1:
+:233:McDonald, Neil R:Adams, Michael:0:
+:234:Cooper, Lawrence:Adams, Michael:0:
+:235:Cooper, John Grantley:Adams, Michael:0:
+:236:Adams, Michael:Chandler, Murray G:1:
+:237:Adams, Michael:Coleman, David:1:
+:238:Norwood, David:Adams, Michael:0:
+:239:Adams, Michael:Lane, Gary W:1:
+:240:Adams, Michael:Levitt, Jonathan:0:
+:241:Arkell, Keith C:Adams, Michael:-1:
+:242:Sokolov, Ivan:Adams, Michael:0:
+:243:Suba, Mihai:Adams, Michael:-1:
+:244:Tisdall, Jonathan D:Adams, Michael:0:
+:245:Wolff, Patrick G:Adams, Michael:0:
+:246:Adams, Michael:Davies, Nigel R:1:
+:247:Adams, Michael:Hodgson, Julian M:0:
+:248:Adams, Michael:Levitt, Jonathan:1:
+:249:Adams, Michael:Lund, D Brett:1:
+:250:Adams, Michael:Wilder, Michael:0:
+:251:Adams, Michael:McNab, Colin Anderson:1:
+:252:Hodgson, Julian M:Adams, Michael:0:
+:253:Davies, Nigel R:Adams, Michael:0:
+:254:Chandler, Murray G:Adams, Michael:0:
+:255:Adams, Michael:Suba, Mihai:0:
+:256:Carton, Patrick:Adams, Michael:-1:
+:257:Adams, Michael:King, Daniel J:0:
+:258:Adams, Michael:Motwani, Paul:1:
+:259:Rayner, Francis:Adams, Michael:-1:
+:260:Adams, Michael:Hynes, Kilian A:1:
+:261:Schienmann, Bruno:Adams, Michael:1:
+:262:Adams, Michael:Tortarolo, Massimiliano:1:
+:263:Baudot, Denis:Adams, Michael:-1:
+:264:Adams, Michael:Contin, Daniel:0:
+:265:Kljako, Damir:Adams, Michael:0:
+:266:Adams, Michael:Abravanel, Chely:1:
+:267:Weindl, Alfred:Adams, Michael:-1:
+:268:Adams, Michael:Danailov, Silvio:1:
+:269:Lalic, Bogdan:Adams, Michael:0:
+:270:Norwood, David:Adams, Michael:0:
+:271:Adams, Michael:Conquest, Stuart:1:
+:272:Adams, Michael:Mestel, A Jonathan:0:
+:273:Adams, Michael:Speelman, Jonathan S:0:
+:274:Adams, Michael:Walker, David:1:
+:275:Adams, Michael:Watson, William N:1:
+:276:Plaskett, Jim:Adams, Michael:0:
+:277:Adams, Michael:Wells, Peter K:0:
+:278:Emms, John M:Adams, Michael:0:
+:279:Hawksworth, John C:Adams, Michael:-1:
+:280:King, Daniel J:Adams, Michael:0:
+:281:Adams, Michael:Chomet, Pascal:1:
+:282:Adams, Michael:Sellos, Didier:1:
+:283:Varlet, Nicolas:Adams, Michael:0:
+:284:Abravanel, Chely:Adams, Michael:-1:
+:285:Adams, Michael:Brenninkmeijer, Joris:1:
+:286:Adams, Michael:Fedorowicz, John P:0:
+:287:Adams, Michael:Rogers, Ian:0:
+:288:Adams, Michael:Shirov, Alexei:0:
+:289:Adams, Michael:Wahls, Matthias:0:
+:290:Arnason, Jon L:Adams, Michael:-1:
+:291:Gulko, Boris F:Adams, Michael:1:
+:292:Khalifman, Alexander:Adams, Michael:-1:
+:293:Piket, Jeroen:Adams, Michael:0:
+:294:Adams, Michael:Larsen, Bent:0:
+:295:Grosar, Aljosa:Adams, Michael:-1:
+:296:Gallagher, Joseph G:Adams, Michael:0:
+:297:Levitt, Jonathan:Adams, Michael:0:
+:298:Kaidanov, Grigory S:Adams, Michael:0:
+:299:Adams, Michael:Zueger, Beat:1:
+:300:Adams, Michael:Wojtkiewicz, Aleksander:1:
+:301:Adams, Michael:Wells, Peter K:1:
+:302:Adams, Michael:Suba, Mihai:1:
+:303:Adams, Michael:Conquest, Stuart:1:
+:304:Adams, Michael:King, Daniel J:-1:
+:305:Adams, Michael:Levitt, Jonathan:1:
+:306:Adams, Michael:Motwani, Paul:0:
+:307:Sturua, Zurab:Adams, Michael:0:
+:308:Chandler, Murray G:Adams, Michael:0:
+:309:Watson, William N:Adams, Michael:0:
+:310:Tisdall, Jonathan D:Adams, Michael:0:
+:311:Adams, Michael:Wolff, Patrick G:1:
+:312:Kosten, Anthony C:Adams, Michael:-1:
+:313:Hodgson, Julian M:Adams, Michael:0:
+:314:Adams, Michael:Frias, Victor J:1:
+:315:Hebden, Mark:Adams, Michael:0:
+:316:Flear, Glenn C:Adams, Michael:1:
+:317:Adams, Michael:Rachels, Stuart:1:
+:318:Salov, Valery:Adams, Michael:0:
+:319:Adams, Michael:Vaganian, Rafael A:1:
+:320:Lautier, Joel:Adams, Michael:1:
+:321:Adams, Michael:Yudasin, Leonid:-1:
+:322:Rechlis, Gad:Adams, Michael:0:
+:323:Adams, Michael:Sokolov, Andrei:0:
+:324:Rogers, Ian:Adams, Michael:0:
+:325:Adams, Michael:Ye Rongguang:1:
+:326:Ftacnik, Lubomir:Adams, Michael:0:
+:327:Adams, Michael:Lputian, Smbat G:1:
+:328:Ljubojevic, Ljubomir:Adams, Michael:0:
+:329:Adams, Michael:Nikolic, Predrag:-1:
+:330:Strikovic, Aleksa:Adams, Michael:0:
+:331:Adams, Michael:Gaffar, A.:1:
+:332:Adams, Michael:Spasov, Vasil:0:
+:333:Barua, Dibyendu:Adams, Michael:1:
+:334:Christiansen, Larry Mark:Adams, Michael:0:
+:335:Mokry, Karel:Adams, Michael:0:
+:336:Kindermann, Stefan:Adams, Michael:-1:
+:337:Adams, Michael:Kozul, Zdenko:-1:
+:338:Hracek, Zbynek:Adams, Michael:0:
+:339:Blatny, Pavel:Adams, Michael:-1:
+:340:Ulibin, Mikhail:Adams, Michael:0:
+:341:Adams, Michael:Anand, Viswanathan:0:
+:342:Adams, Michael:Luther, Thomas:1:
+:343:Adams, Michael:Norwood, David:0:
+:344:Adams, Michael:Svidler, Peter:1:
+:345:Adams, Michael:Tiviakov, Sergei:-1:
+:346:Schlosser, Michael:Adams, Michael:-1:
+:347:Badea, Bela:Adams, Michael:0:
+:348:Adams, Michael:Burgess, Graham:1:
+:349:Galliamova, Alisa:Adams, Michael:0:
+:350:Adams, Michael:Ulibin, Mikhail:1:
+:351:Webster, Andrew:Adams, Michael:0:
+:352:Adams, Michael:Schlosser, Michael:0:
+:353:Adams, Michael:Sherzer, Alex:1:
+:354:Adams, Michael:Gurevich, Mikhail:1:
+:355:Adams, Michael:Hjartarson, Johann:-1:
+:356:Christiansen, Larry Mark:Adams, Michael:-1:
+:357:Hjartarson, Johann:Adams, Michael:0:
+:358:Gurevich, Mikhail:Adams, Michael:0:
+:359:Adams, Michael:Christiansen, Larry Mark:1:
+:360:Kozul, Zdenko:Adams, Michael:-1:
+:361:Adams, Michael:Bareev, Evgeny:-1:
+:362:Lautier, Joel:Adams, Michael:0:
+:363:Adams, Michael:Shirov, Alexei:-1:
+:364:Gavrikov, Viktor:Adams, Michael:1:
+:365:Christiansen, Larry Mark:Adams, Michael:-1:
+:366:Adams, Michael:Andersson, Ulf:-1:
+:367:Adams, Michael:Kozul, Zdenko:1:
+:368:Bareev, Evgeny:Adams, Michael:1:
+:369:Adams, Michael:Lautier, Joel:1:
+:370:Shirov, Alexei:Adams, Michael:1:
+:371:Adams, Michael:Gavrikov, Viktor:0:
+:372:Adams, Michael:Christiansen, Larry Mark:0:
+:373:Andersson, Ulf:Adams, Michael:0:
+:374:Adams, Michael:Dolmatov, Sergey:0:
+:375:Cifuentes Parada, Roberto:Adams, Michael:0:
+:376:Adams, Michael:Milos, Gilberto:-1:
+:377:Ricardi, Pablo:Adams, Michael:0:
+:378:Adams, Michael:Barbero, Gerardo F:1:
+:379:Boissonet, Carlos P:Adams, Michael:-1:
+:380:Adams, Michael:Amura, Claudia Noemi:1:
+:381:Larsen, Bent:Adams, Michael:-1:
+:382:Adams, Michael:Granda Zuniga, Julio E:-1:
+:383:Tal, Mihail:Adams, Michael:0:
+:384:Adams, Michael:Nogueiras, Jesus:0:
+:385:Adams, Michael:Fedorowicz, John P:0:
+:386:Panno, Oscar:Adams, Michael:0:
+:387:Kaidanov, Grigory S:Adams, Michael:0:
+:388:Adams, Michael:Cohen, A.:1:
+:389:Lisenko, Alexander V:Adams, Michael:-1:
+:390:Adams, Michael:Flear, Glenn C:1:
+:391:Adams, Michael:Howell, James C:0:
+:392:Adams, Michael:Ziatdinov, Raset:1:
+:393:Conquest, Stuart:Adams, Michael:-1:
+:394:Short, Philip M:Adams, Michael:0:
+:395:Hodgson, Julian M:Adams, Michael:0:
+:396:Adams, Michael:Watson, William N:0:
+:397:Adams, Michael:Short, Nigel D:1:
+:398:Speelman, Jonathan S:Adams, Michael:0:
+:399:Watson, William N:Adams, Michael:0:
+:400:Short, Nigel D:Adams, Michael:1:
+:401:Adams, Michael:Speelman, Jonathan S:1:
+:402:Adams, Michael:Short, Nigel D:0:
+:403:Watson, William N:Adams, Michael:-1:
+:404:Adams, Michael:Watson, William N:0:
+:405:Short, Nigel D:Adams, Michael:0:
+:406:Short, Nigel D:Adams, Michael:1:
+:407:Adams, Michael:Short, Nigel D:-1:
+:408:Armas, Iulius:Adams, Michael:1:
+:409:Dufrenoy, M.:Adams, Michael:0:
+:410:Pinter, Jozsef:Adams, Michael:0:
+:411:Neidhardt, Claus Ulrich:Adams, Michael:-1:
+:412:Adams, Michael:Hebden, Mark:1:
+:413:Adams, Michael:Adrian, Claude:1:
+:414:Adams, Michael:Ivkov, Borislav:1:
+:415:Bareev, Evgeny:Adams, Michael:1:
+:416:Adams, Michael:Suetin, Alexey S:1:
+:417:Chandler, Murray G:Adams, Michael:-1:
+:418:Adams, Michael:Speelman, Jonathan S:0:
+:419:Agdestein, Simen:Adams, Michael:0:
+:420:Adams, Michael:Shirov, Alexei:0:
+:421:Hodgson, Julian M:Adams, Michael:0:
+:422:Adams, Michael:Bareev, Evgeny:-1:
+:423:Suetin, Alexey S:Adams, Michael:-1:
+:424:Adams, Michael:Chandler, Murray G:-1:
+:425:Speelman, Jonathan S:Adams, Michael:-1:
+:426:Adams, Michael:Agdestein, Simen:-1:
+:427:Shirov, Alexei:Adams, Michael:1:
+:428:Adams, Michael:Hodgson, Julian M:1:
+:429:Safranska, Anda:Adams, Michael:-1:
+:430:Adams, Michael:Agnos, Demetrios:1:
+:431:Zilberman, Yaacov:Adams, Michael:-1:
+:432:Adams, Michael:Anastasian, Ashot:0:
+:433:Ernst, Thomas:Adams, Michael:1:
+:434:Adams, Michael:McDonald, Neil R:1:
+:435:Timoshchenko, Gennadi A:Adams, Michael:-1:
+:436:Adams, Michael:Shabalov, Alexander:0:
+:437:Murshed, Niaz:Adams, Michael:0:
+:438:Adams, Michael:Emms, John M:1:
+:439:Adams, Michael:Vanhul, C.:1:
+:440:Winterstein, Wolfgang:Adams, Michael:-1:
+:441:Adams, Michael:Berg, Klaus:1:
+:442:Bosboom, Manuel:Adams, Michael:-1:
+:443:Adams, Michael:Kuzmin, Alexey:-1:
+:444:Gurevich, Mikhail:Adams, Michael:-1:
+:445:Adams, Michael:Kovalev, Andrei:1:
+:446:Mainka, Romuald:Adams, Michael:-1:
+:447:Adams, Michael:Schmittdiel, Eckhard:0:
+:448:Jackson, Oliver:Adams, Michael:-1:
+:449:Hebden, Mark:Adams, Michael:-1:
+:450:Littlewood, Paul E:Adams, Michael:-1:
+:451:Adams, Michael:Pein, Malcolm:1:
+:452:Adams, Michael:Littlewood, Paul E:1:
+:453:Adams, Michael:Littlewood, Paul E:1:
+:454:Ehlvest, Jaan:Adams, Michael:-1:
+:455:Adams, Michael:Boensch, Uwe:0:
+:456:Illescas Cordoba, Miguel:Adams, Michael:0:
+:457:Adams, Michael:Pomes Marcet, Juan:1:
+:458:Epishin, Vladimir:Adams, Michael:0:
+:459:Ivanchuk, Vassily:Adams, Michael:-1:
+:460:Adams, Michael:Garcia Ilundain, David:1:
+:461:Romanishin, Oleg M:Adams, Michael:0:
+:462:Adams, Michael:Lautier, Joel:0:
+:463:Adams, Michael:Van der Wiel, John TH:1:
+:464:Lautier, Joel:Adams, Michael:-1:
+:465:Adams, Michael:Sokolov, Ivan:-1:
+:466:Chernin, Alexander:Adams, Michael:0:
+:467:Adams, Michael:Seirawan, Yasser:0:
+:468:Olafsson, Helgi:Adams, Michael:0:
+:469:Adams, Michael:Hansen, Curt:1:
+:470:Adams, Michael:Kozul, Zdenko:1:
+:471:Fedorowicz, John P:Adams, Michael:0:
+:472:Adams, Michael:Piket, Jeroen:-1:
+:473:Khalifman, Alexander:Adams, Michael:0:
+:474:Adams, Michael:Salov, Valery:1:
+:475:Nunn, John DM:Adams, Michael:0:
+:476:Short, Nigel D:Adams, Michael:0:
+:477:Adams, Michael:Lobron, Eric:1:
+:478:Nunn, John DM:Adams, Michael:-1:
+:479:Speelman, Jonathan S:Adams, Michael:0:
+:480:Lobron, Eric:Adams, Michael:1:
+:481:Anand, Viswanathan:Adams, Michael:-1:
+:482:Adams, Michael:Speelman, Jonathan S:0:
+:483:Adams, Michael:Short, Nigel D:1:
+:484:Adams, Michael:Nunn, John DM:0:
+:485:Adams, Michael:Lobron, Eric:1:
+:486:Adams, Michael:Anand, Viswanathan:0:
+:487:Speelman, Jonathan S:Adams, Michael:-1:
+:488:Lobron, Eric:Adams, Michael:-1:
+:489:Adams, Michael:Speelman, Jonathan S:0:
+:490:Adams, Michael:Renet, Olivier:1:
+:491:Piket, Jeroen:Adams, Michael:-1:
+:492:Adams, Michael:Christiansen, Larry Mark:1:
+:493:Renet, Olivier:Adams, Michael:-1:
+:494:Adams, Michael:Piket, Jeroen:1:
+:495:Christiansen, Larry Mark:Adams, Michael:0:
+:496:Ulibin, Mikhail:Adams, Michael:1:
+:497:Adams, Michael:Bologan, Viktor:0:
+:498:Illescas Cordoba, Miguel:Adams, Michael:1:
+:499:Adams, Michael:Khenkin, Igor:0:
+:500:Kramnik, Vladimir:Adams, Michael:0:
+:501:Adams, Michael:Stohl, Igor:1:
+:502:Kotronias, Vasilios:Adams, Michael:-1:
+:503:Sokolov, Ivan:Adams, Michael:0:
+:504:Adams, Michael:Lautier, Joel:1:
+:505:Psakhis, Lev:Adams, Michael:0:
+:506:Adams, Michael:Akopian, Vladimir:0:
+:507:Adams, Michael:Magem Badals, Jorge:1:
+:508:Adams, Michael:Horvath, Jozsef:1:
+:509:Adams, Michael:Cvitan, Ognjen:1:
+:510:Adams, Michael:Van Wely, Loek:1:
+:511:Adams, Michael:Dreev, Alexey:0:
+:512:Adams, Michael:Beliavsky, Alexander G:0:
+:513:Adams, Michael:Greenfeld, Alon:0:
+:514:Minasian, Artashes:Adams, Michael:-1:
+:515:Adams, Michael:Huebner, Robert:-1:
+:516:Adams, Michael:Salov, Valery:1:
+:517:Shirov, Alexei:Adams, Michael:0:
+:518:Adams, Michael:Anand, Viswanathan:0:
+:519:Kamsky, Gata:Adams, Michael:0:
+:520:Adams, Michael:Piket, Jeroen:0:
+:521:Ivanchuk, Vassily:Adams, Michael:1:
+:522:Adams, Michael:Kasparov, Gary:-1:
+:523:Bareev, Evgeny:Adams, Michael:0:
+:524:Sokolov, Andrei:Adams, Michael:1:
+:525:Salov, Valery:Adams, Michael:0:
+:526:Kallai, Gabor:Adams, Michael:0:
+:527:Adams, Michael:Polugaevsky, Lev:1:
+:528:Adams, Michael:Miralles, Gilles:1:
+:529:Adams, Michael:Moynihan, Kieran:0:
+:530:Levitt, Jonathan:Adams, Michael:0:
+:531:Lalic, Susan:Adams, Michael:-1:
+:532:Kinsman, Andrew PH:Adams, Michael:-1:
+:533:Gurevich, Ilya:Adams, Michael:0:
+:534:Adams, Michael:Ward, Christopher:0:
+:535:Adams, Michael:Thipsay, Praveen Mahadeo:1:
+:536:Timoshchenko, Gennadi A:Adams, Michael:1:
+:537:Adams, Michael:Howell, James C:0:
+:538:Adams, Michael:Hon, Andrew:1:
+:539:Adams, Michael:Bronstein, David I:0:
+:540:Arnason, Jon L:Adams, Michael:1:
+:541:Veingold, Aleksandr:Adams, Michael:1:
+:542:Thipsay, Praveen Mahadeo:Adams, Michael:1:
+:543:Akopian, Vladimir:Adams, Michael:0:
+:544:Adams, Michael:Ubilava, Elizbar:0:
+:545:Westerinen, Heikki MJ:Adams, Michael:-1:
+:546:Adams, Michael:Tan Lian Ann:1:
+:547:Adams, Michael:Serper, Grigory:0:
+:548:Adams, Michael:Salazar, Hernan:1:
+:549:Adams, Michael:Dreev, Alexey:1:
+:550:Adams, Michael:Adorjan, Andras:1:
+:551:Adams, Michael:Lesiege, Alexandre:0:
+:552:Prakash, G B.:Adams, Michael:-1:
+:553:Adams, Michael:Tiviakov, Sergei:-1:
+:554:Sjodahl, Pontus:Adams, Michael:-1:
+:555:Adams, Michael:Djurhuus, Rune:1:
+:556:Gdanski, Jacek:Adams, Michael:1:
+:557:Adams, Michael:Hall, Jesper:0:
+:558:Adams, Michael:Galliamova, Alisa:1:
+:559:Akopian, Vladimir:Adams, Michael:1:
+:560:Adams, Michael:Nunn, John DM:1:
+:561:Adams, Michael:Vaganian, Rafael A:1:
+:562:Adams, Michael:Vaganian, Rafael A:1:
+:563:Adams, Michael:Nunn, John DM:1:
+:564:Nunn, John DM:Adams, Michael:1:
+:565:Vaganian, Rafael A:Adams, Michael:1:
+:566:Adams, Michael:King, Daniel J:0:
+:567:Lopez Roldan, E.:Adams, Michael:-1:
+:568:Adams, Michael:San Claudio, Francisco Javier:1:
+:569:Adams, Michael:Estrada, Cesar:1:
+:570:Gallego, Victoriano:Adams, Michael:-1:
+:571:Adams, Michael:Santo Roman, Marc:0:
+:572:Adams, Michael:Danailov, Silvio:0:
+:573:Chabanon, Jean Luc:Adams, Michael:-1:
+:574:Adams, Michael:Makarichev, Sergey:0:
+:575:Adams, Michael:Anand, Viswanathan:1:
+:576:Adams, Michael:Anand, Viswanathan:-1:
+:577:Anand, Viswanathan:Adams, Michael:1:
+:578:Kortschnoj, Viktor:Adams, Michael:1:
+:579:Anand, Viswanathan:Adams, Michael:1:
+:580:Adams, Michael:Polgar, Zsuzsa:0:
+:581:Adams, Michael:Ivanchuk, Vassily:1:
+:582:Adams, Michael:Christiansen, Larry Mark:1:
+:583:Larsen, Bent:Adams, Michael:-1:
+:584:Ljubojevic, Ljubomir:Adams, Michael:0:
+:585:Seirawan, Yasser:Adams, Michael:1:
+:586:Polgar, Judit:Adams, Michael:-1:
+:587:Adams, Michael:Piket, Jeroen:-1:
+:588:Adams, Michael:Ljubojevic, Ljubomir:0:
+:589:Anand, Viswanathan:Adams, Michael:0:
+:590:Adams, Michael:Speelman, Jonathan S:0:
+:591:Adams, Michael:Ivanchuk, Vassily:-1:
+:592:Kortschnoj, Viktor:Adams, Michael:1:
+:593:Adams, Michael:Karpov, Anatoly:0:
+:594:Larsen, Bent:Adams, Michael:-1:
+:595:Adams, Michael:Seirawan, Yasser:1:
+:596:Polugaevsky, Lev:Adams, Michael:-1:
+:597:Adams, Michael:Polgar, Judit:-1:
+:598:Piket, Jeroen:Adams, Michael:-1:
+:599:Ljubojevic, Ljubomir:Adams, Michael:0:
+:600:Adams, Michael:Anand, Viswanathan:0:
+:601:Speelman, Jonathan S:Adams, Michael:1:
+:602:Ivanchuk, Vassily:Adams, Michael:0:
+:603:Adams, Michael:Kortschnoj, Viktor:0:
+:604:Karpov, Anatoly:Adams, Michael:0:
+:605:Adams, Michael:Larsen, Bent:1:
+:606:Seirawan, Yasser:Adams, Michael:1:
+:607:Adams, Michael:Polugaevsky, Lev:0:
+:608:Van der Sterren, Paul:Adams, Michael:-1:
+:609:Vaganian, Rafael A:Adams, Michael:1:
+:610:Adams, Michael:Epishin, Vladimir:-1:
+:611:Sosonko, Gennadi:Adams, Michael:-1:
+:612:Adams, Michael:Christiansen, Larry Mark:1:
+:613:Georgiev, Kiril:Adams, Michael:-1:
+:614:Beliavsky, Alexander G:Adams, Michael:1:
+:615:Smirin, Ilia:Adams, Michael:0:
+:616:Adams, Michael:Sveshnikov, Evgeny:1:
+:617:Adams, Michael:Gelfand, Boris:0:
+:618:Kovalev, Andrei:Adams, Michael:-1:
+:619:Gelfand, Boris:Adams, Michael:0:
+:620:Sveshnikov, Evgeny:Adams, Michael:0:
+:621:Adams, Michael:Smirin, Ilia:1:
+:622:Adams, Michael:Kovalev, Andrei:0:
+:623:Adams, Michael:Georgiev, Kiril:0:
+:624:Adams, Michael:Beliavsky, Alexander G:1:
+:625:Beliavsky, Alexander G:Adams, Michael:-1:
+:626:Adams, Michael:Gelfand, Boris:0:
+:627:Adams, Michael:Beliavsky, Alexander G:1:
+:628:Gelfand, Boris:Adams, Michael:-1:
+:629:Adams, Michael:Ftacnik, Lubomir:-1:
+:630:Brunner, Lucas:Adams, Michael:-1:
+:631:Adams, Michael:Wolff, Patrick G:-1:
+:632:Hug, Werner:Adams, Michael:-1:
+:633:Adams, Michael:Dvoirys, Semen I:1:
+:634:Gurevich, Dmitry:Adams, Michael:-1:
+:635:Adams, Michael:Kortschnoj, Viktor:1:
+:636:Kramnik, Vladimir:Adams, Michael:-1:
+:637:Adams, Michael:Salov, Valery:0:
+:638:Gelfand, Boris:Adams, Michael:0:
+:639:Adams, Michael:Kamsky, Gata:0:
+:640:Khalifman, Alexander:Adams, Michael:0:
+:641:Adams, Michael:Yudasin, Leonid:0:
+:642:Adams, Michael:Kotronias, Vasilios:1:
+:643:Adams, Michael:Kotronias, Vasilios:1:
+:644:Adams, Michael:Shirov, Alexei:-1:
+:645:Kotronias, Vasilios:Adams, Michael:-1:
+:646:Adams, Michael:Gelfand, Boris:0:
+:647:Shirov, Alexei:Adams, Michael:1:
+:648:Shirov, Alexei:Adams, Michael:1:
+:649:Kotronias, Vasilios:Adams, Michael:-1:
+:650:Gelfand, Boris:Adams, Michael:0:
+:651:Adams, Michael:Shirov, Alexei:0:
+:652:Izeta Txabarri, Felix:Adams, Michael:0:
+:653:Adams, Michael:Khalifman, Alexander:-1:
+:654:Karpov, Anatoly:Adams, Michael:1:
+:655:Adams, Michael:Polgar, Judit:0:
+:656:Fernandez Garcia, Jose L:Adams, Michael:0:
+:657:Adams, Michael:Rivas Pastor, Manuel:1:
+:658:Magem Badals, Jorge:Adams, Michael:0:
+:659:Adams, Michael:Epishin, Vladimir:-1:
+:660:Yudasin, Leonid:Adams, Michael:0:
+:661:Adams, Michael:Ryan, Joseph:1:
+:662:Short, Philip M:Adams, Michael:-1:
+:663:Adams, Michael:Levitt, Jonathan:1:
+:664:McNab, Colin Anderson:Adams, Michael:-1:
+:665:Adams, Michael:Hodgson, Julian M:0:
+:666:Speelman, Jonathan S:Adams, Michael:0:
+:667:Adams, Michael:Sadler, Matthew:1:
+:668:Howell, James C:Adams, Michael:0:
+:669:Adams, Michael:Wells, Peter K:1:
+:670:Arkell, Keith C:Adams, Michael:0:
+:671:Adams, Michael:Miles, Anthony J:1:
+:672:Adams, Michael:Vyzmanavin, Alexey:1:
+:673:Adams, Michael:Georgiev, Krum:1:
+:674:Khenkin, Igor:Adams, Michael:0:
+:675:Adams, Michael:Granda Zuniga, Julio E:1:
+:676:Smirin, Ilia:Adams, Michael:0:
+:677:Adams, Michael:Dimitrov, Vladimir:0:
+:678:Nikolic, Predrag:Adams, Michael:0:
+:679:Adams, Michael:Kolev, Atanas:1:
+:680:Sokolov, Ivan:Adams, Michael:0:
+:681:Adams, Michael:Georgiev, Kiril:1:
+:682:Tukmakov, Vladimir B:Adams, Michael:0:
+:683:Tukmakov, Vladimir B:Adams, Michael:0:
+:684:Adams, Michael:Akopian, Vladimir:1:
+:685:Georgiev, Kiril:Adams, Michael:-1:
+:686:Adams, Michael:Bareev, Evgeny:0:
+:687:Tiviakov, Sergei:Adams, Michael:1:
+:688:Adams, Michael:Romanishin, Oleg M:1:
+:689:Kramnik, Vladimir:Adams, Michael:0:
+:690:Adams, Michael:Sokolov, Ivan:1:
+:691:Anand, Viswanathan:Adams, Michael:0:
+:692:Adams, Michael:Gulko, Boris F:1:
+:693:Kamsky, Gata:Adams, Michael:0:
+:694:Adams, Michael:Anand, Viswanathan:-1:
+:695:Murrey, Jacob:Adams, Michael:1:
+:696:Adams, Michael:Khalifman, Alexander:-1:
+:697:Topalov, Veselin:Adams, Michael:1:
+:698:Adams, Michael:Morovic Fernandez, Ivan:-1:
+:699:Christiansen, Larry Mark:Adams, Michael:-1:
+:700:Adams, Michael:Azmaiparashvili, Zurab:1:
+:701:Jussupow, Artur:Adams, Michael:0:
+:702:Adams, Michael:Anand, Viswanathan:0:
+:703:Adams, Michael:Georgiev, Kiril:1:
+:704:Rivas Pastor, Manuel:Adams, Michael:-1:
+:705:Kasparov, Gary:Adams, Michael:1:
+:706:Adams, Michael:Kasparov, Gary:1:
+:707:Kasparov, Gary:Adams, Michael:1:
+:708:Adams, Michael:Jonsson, Hans:1:
+:709:Lane, Gary W:Adams, Michael:1:
+:710:Adams, Michael:Stanton, William:1:
+:711:Gavriel, Tryfon:Adams, Michael:-1:
+:712:Adams, Michael:Wells, Peter K:-1:
+:713:McEwan, Ken B:Adams, Michael:0:
+:714:Adams, Michael:Sandstrom, Ludvig:1:
+:715:Nielsen, Uffe V:Adams, Michael:0:
+:716:Adams, Michael:Ferron Garcia, Carlos:1:
+:717:Sadler, Matthew:Adams, Michael:-1:
+:718:Gurevich, Mikhail:Adams, Michael:1:
+:719:Huebner, Robert:Adams, Michael:0:
+:720:Adams, Michael:Jussupow, Artur:1:
+:721:Hertneck, Gerald:Adams, Michael:-1:
+:722:Adams, Michael:Lautier, Joel:0:
+:723:Hjartarson, Johann:Adams, Michael:0:
+:724:Adams, Michael:Lobron, Eric:0:
+:725:Bareev, Evgeny:Adams, Michael:-1:
+:726:Adams, Michael:Lutz, Christopher:0:
+:727:Gelfand, Boris:Adams, Michael:0:
+:728:Adams, Michael:Shirov, Alexei:0:
+:729:Adams, Michael:Miles, Anthony J:0:
+:730:Miles, Anthony J:Adams, Michael:-1:
+:731:Morozevich, Alexander:Adams, Michael:1:
+:732:Adams, Michael:Morozevich, Alexander:-1:
+:733:Adams, Michael:Hodgson, Julian M:0:
+:734:Hodgson, Julian M:Adams, Michael:1:
+:735:Nijboer, Friso:Adams, Michael:0:
+:736:Adams, Michael:Leko, Peter:0:
+:737:Adams, Michael:Piket, Jeroen:1:
+:738:Hansen, Lars Bo:Adams, Michael:-1:
+:739:Adams, Michael:Shirov, Alexei:0:
+:740:Kortschnoj, Viktor:Adams, Michael:-1:
+:741:Adams, Michael:Hodgson, Julian M:0:
+:742:Salov, Valery:Adams, Michael:1:
+:743:Adams, Michael:Lobron, Eric:-1:
+:744:Tukmakov, Vladimir B:Adams, Michael:1:
+:745:Adams, Michael:Nunn, John DM:0:
+:746:Xie Jun:Adams, Michael:-1:
+:747:Piket, Jeroen:Adams, Michael:0:
+:748:Adams, Michael:Lobron, Eric:0:
+:749:Benjamin, Joel:Adams, Michael:0:
+:750:Adams, Michael:Sokolov, Ivan:0:
+:751:Lautier, Joel:Adams, Michael:0:
+:752:Adams, Michael:Timman, Jan H:0:
+:753:Jussupow, Artur:Adams, Michael:0:
+:754:Adams, Michael:Van der Sterren, Paul:1:
+:755:Adams, Michael:Xu Jun:0:
+:756:Alterman, Boris:Adams, Michael:1:
+:757:Adams, Michael:Leko, Peter:1:
+:758:Topalov, Veselin:Adams, Michael:-1:
+:759:Adams, Michael:Gelfand, Boris:0:
+:760:Xu Jun:Adams, Michael:-1:
+:761:Adams, Michael:Alterman, Boris:0:
+:762:Adams, Michael:Xu Jun:1:
+:763:Adams, Michael:Hamdouchi, Hichem:1:
+:764:Hamdouchi, Hichem:Adams, Michael:-1:
+:765:Adams, Michael:Alterman, Boris:0:
+:766:Adams, Michael:Karpov, Anatoly:1:
+:767:Kortschnoj, Viktor:Adams, Michael:-1:
+:768:Adams, Michael:Dreev, Alexey:-1:
+:769:Piket, Jeroen:Adams, Michael:0:
+:770:Adams, Michael:Timman, Jan H:0:
+:771:Adams, Michael:Leko, Peter:1:
+:772:Epishin, Vladimir:Adams, Michael:0:
+:773:Adams, Michael:Lutz, Christopher:1:
+:774:Jussupow, Artur:Adams, Michael:1:
+:775:Landenbergue, Claude:Adams, Michael:0:
+:776:Adams, Michael:Stangl, Markus:1:
+:777:Bischoff, Klaus:Adams, Michael:0:
+:778:Adams, Michael:Hug, Werner:1:
+:779:Jussupow, Artur:Adams, Michael:0:
+:780:Adams, Michael:Huebner, Robert:1:
+:781:Lutz, Christopher:Adams, Michael:0:
+:782:Adams, Michael:Kortschnoj, Viktor:1:
+:783:Kindermann, Stefan:Adams, Michael:-1:
+:784:Adams, Michael:Hertneck, Gerald:0:
+:785:Sokolov, Ivan:Adams, Michael:0:
+:786:Adams, Michael:Van Wely, Loek:1:
+:787:Short, Nigel D:Adams, Michael:0:
+:788:Adams, Michael:Brunner, Lucas:1:
+:789:Lobron, Eric:Adams, Michael:-1:
+:790:Kamsky, Gata:Adams, Michael:1:
+:791:Adams, Michael:Illescas Cordoba, Miguel:1:
+:792:Polgar, Judit:Adams, Michael:-1:
+:793:Epishin, Vladimir:Adams, Michael:-1:
+:794:Adams, Michael:Topalov, Veselin:0:
+:795:Shirov, Alexei:Adams, Michael:1:
+:796:Adams, Michael:Morovic Fernandez, Ivan:0:
+:797:Lautier, Joel:Adams, Michael:1:
+:798:Adams, Michael:Karpov, Anatoly:-1:
+:799:Anand, Viswanathan:Adams, Michael:1:
+:800:Adams, Michael:Anand, Viswanathan:-1:
+:801:Anand, Viswanathan:Adams, Michael:1:
+:802:Adams, Michael:Anand, Viswanathan:0:
+:803:Anand, Viswanathan:Adams, Michael:1:
+:804:Adams, Michael:Anand, Viswanathan:0:
+:805:Anand, Viswanathan:Adams, Michael:0:
+:806:Adams, Michael:Anand, Viswanathan:1:
+:807:Adams, Michael:Anand, Viswanathan:-1:
+:808:Anand, Viswanathan:Adams, Michael:1:
+:809:Adams, Michael:Kortschnoj, Viktor:0:
+:810:Adams, Michael:Kortschnoj, Viktor:0:
+:811:Kortschnoj, Viktor:Adams, Michael:0:
+:812:Adams, Michael:Tomorhuyag, Nyamaa:1:
+:813:Temirbaev, Serik:Adams, Michael:0:
+:814:Motwani, Paul:Adams, Michael:1:
+:815:Adams, Michael:Vanderwaeren, Serge:1:
+:816:Mortensen, Erling:Adams, Michael:-1:
+:817:Adams, Michael:Almasi, Zoltan:0:
+:818:Greenfeld, Alon:Adams, Michael:-1:
+:819:Adams, Michael:Sokolov, Ivan:0:
+:820:Miladinovic, Igor:Adams, Michael:-1:
+:821:Adams, Michael:Piket, Jeroen:1:
+:822:Adams, Michael:Kramnik, Vladimir:0:
+:823:Ulibin, Mikhail:Adams, Michael:0:
+:824:Adams, Michael:Vaisser, Anatoli:0:
+:825:Adams, Michael:Khalifman, Alexander:1:
+:826:Adams, Michael:Smirin, Ilia:-1:
+:827:Kamsky, Gata:Adams, Michael:1:
+:828:Speelman, Jonathan S:Adams, Michael:0:
+:829:Ehlvest, Jaan:Adams, Michael:-1:
+:830:Tiviakov, Sergei:Adams, Michael:-1:
+:831:Adams, Michael:Malaniuk, Vladimir P:1:
+:832:Malaniuk, Vladimir P:Adams, Michael:-1:
+:833:Nikolic, Predrag:Adams, Michael:1:
+:834:Adams, Michael:Nikolic, Predrag:-1:
+:835:Adams, Michael:Nikolic, Predrag:1:
+:836:Adams, Michael:Tiviakov, Sergei:1:
+:837:Tiviakov, Sergei:Adams, Michael:1:
+:838:Wolff, Patrick G:Adams, Michael:1:
+:839:Adams, Michael:Tiviakov, Sergei:-1:
+:840:Tiviakov, Sergei:Adams, Michael:0:
+:841:Hodgson, Julian M:Adams, Michael:0:
+:842:Adams, Michael:Dzindzichashvili, Roman:1:
+:843:Adams, Michael:Tiviakov, Sergei:1:
+:844:Tiviakov, Sergei:Adams, Michael:1:
+:845:Adams, Michael:Tiviakov, Sergei:0:
+:846:Tiviakov, Sergei:Adams, Michael:0:
+:847:Bologan, Viktor:Adams, Michael:-1:
+:848:Adams, Michael:Tiviakov, Sergei:0:
+:849:Adams, Michael:Smirin, Ilia:1:
+:850:Tiviakov, Sergei:Adams, Michael:0:
+:851:Adams, Michael:Tiviakov, Sergei:0:
+:852:Tiviakov, Sergei:Adams, Michael:0:
+:853:Adams, Michael:Tiviakov, Sergei:1:
+:854:Adams, Michael:Van der Sterren, Paul:0:
+:855:Agdestein, Simen:Adams, Michael:1:
+:856:Adams, Michael:Agdestein, Simen:1:
+:857:Agdestein, Simen:Adams, Michael:-1:
+:858:Adams, Michael:Agdestein, Simen:-1:
+:859:Hjartarson, Johann:Adams, Michael:1:
+:860:Adams, Michael:Hjartarson, Johann:-1:
+:861:Fernandes, Antonio:Adams, Michael:1:
+:862:Roos, Daniel:Adams, Michael:1:
+:863:Adams, Michael:Gelfand, Boris:0:
+:864:Gelfand, Boris:Adams, Michael:0:
+:865:Adams, Michael:Gelfand, Boris:0:
+:866:Gelfand, Boris:Adams, Michael:1:
+:867:Adams, Michael:Gelfand, Boris:1:
+:868:Gelfand, Boris:Adams, Michael:1:
+:869:Adams, Michael:Gelfand, Boris:0:
+:870:Gelfand, Boris:Adams, Michael:1:
+:871:Leko, Peter:Adams, Michael:0:
+:872:Adams, Michael:Lautier, Joel:0:
+:873:Ljubojevic, Ljubomir:Adams, Michael:0:
+:874:Adams, Michael:Kramnik, Vladimir:-1:
+:875:Timman, Jan H:Adams, Michael:1:
+:876:Adams, Michael:Gelfand, Boris:-1:
+:877:Ivanchuk, Vassily:Adams, Michael:0:
+:878:Beliavsky, Alexander G:Adams, Michael:-1:
+:879:Adams, Michael:Miladinovic, Igor:1:
+:880:Topalov, Veselin:Adams, Michael:0:
+:881:Adams, Michael:Shirov, Alexei:1:
+:882:Ahn, Martin:Adams, Michael:1:
+:883:Adams, Michael:Cummings, David H:-1:
+:884:Adams, Michael:Silva, Fernando:-1:
+:885:Karpov, Anatoly:Adams, Michael:0:
+:886:Polgar, Judit:Adams, Michael:0:
+:887:Adams, Michael:Piket, Jeroen:1:
+:888:Salov, Valery:Adams, Michael:-1:
+:889:Adams, Michael:Lautier, Joel:0:
+:890:Illescas Cordoba, Miguel:Adams, Michael:0:
+:891:Adams, Michael:Shirov, Alexei:1:
+:892:Gelfand, Boris:Adams, Michael:0:
+:893:Adams, Michael:Kamsky, Gata:-1:
+:894:Adams, Michael:Hracek, Zbynek:0:
+:895:Adams, Michael:Rozentalis, Eduardas:0:
+:896:Adams, Michael:Zude, Arno:0:
+:897:Lutz, Christopher:Adams, Michael:1:
+:898:Schmittdiel, Eckhard:Adams, Michael:0:
+:899:Wahls, Matthias:Adams, Michael:-1:
+:900:Adams, Michael:Tiviakov, Sergei:0:
+:901:Karpov, Anatoly:Adams, Michael:0:
+:902:Adams, Michael:Hansen, Curt:1:
+:903:Almasi, Zoltan:Adams, Michael:1:
+:904:Van Wely, Loek:Adams, Michael:1:
+:905:Adams, Michael:Leko, Peter:0:
+:906:Sokolov, Ivan:Adams, Michael:0:
+:907:Adams, Michael:Kamsky, Gata:1:
+:908:Adams, Michael:Lautier, Joel:1:
+:909:Adams, Michael:Svidler, Peter:-1:
+:910:Piket, Jeroen:Adams, Michael:-1:
+:911:Bates, Richard:Adams, Michael:-1:
+:912:Adams, Michael:McDonald, Neil R:1:
+:913:Arkell, Keith C:Adams, Michael:1:
+:914:Adams, Michael:Mellier, Pierre:1:
+:915:Adams, Michael:Dunnington, Angus J:1:
+:916:Ward, Christopher:Adams, Michael:1:
+:917:Ferguson, Mark:Adams, Michael:0:
+:918:Adams, Michael:Bisby, Daniel L:1:
+:919:Malaniuk, Vladimir P:Adams, Michael:1:
+:920:Sion Castro, Marcelino:Adams, Michael:-1:
+:921:Adams, Michael:Morovic Fernandez, Ivan:0:
+:922:Akopian, Vladimir:Adams, Michael:0:
+:923:Adams, Michael:Sokolov, Ivan:0:
+:924:Rivas Pastor, Manuel:Adams, Michael:-1:
+:925:Adams, Michael:Romero Holmes, Alfonso:1:
+:926:Bareev, Evgeny:Adams, Michael:0:
+:927:Shirov, Alexei:Adams, Michael:1:
+:928:Adams, Michael:De la Villa Garcia, Jesus Maria:1:
+:929:Adams, Michael:Greenfeld, Alon:0:
+:930:Adams, Michael:Lputian, Smbat G:-1:
+:931:Speelman, Jonathan S:Adams, Michael:0:
+:932:Adams, Michael:Speelman, Jonathan S:1:
+:933:Piket, Jeroen:Adams, Michael:0:
+:934:Adams, Michael:Piket, Jeroen:1:
+:935:Piket, Jeroen:Adams, Michael:1:
+:936:Miles, Anthony J:Adams, Michael:-1:
+:937:Adams, Michael:Miles, Anthony J:0:
+:938:Dreev, Alexey:Adams, Michael:-1:
+:939:Adams, Michael:Dreev, Alexey:1:
+:940:Kasparov, Gary:Adams, Michael:1:
+:941:Adams, Michael:Kasparov, Gary:-1:
+:942:Wojtkiewicz, Aleksander:Adams, Michael:1:
+:943:Adams, Michael:Young, Angelo:1:
+:944:Adams, Michael:Wojtkiewicz, Aleksander:1:
+:945:Kharlov, Andrei:Adams, Michael:0:
+:946:Zapata, Alonso:Adams, Michael:0:
+:947:Adams, Michael:Garcia, Gildardo:1:
+:948:Adams, Michael:Speelman, Jonathan S:-1:
+:949:Alburt, Lev O:Adams, Michael:0:
+:950:Adams, Michael:Morovic Fernandez, Ivan:0:
+:951:Adams, Michael:Hommeles, Theo:1:
+:952:Lautier, Joel:Adams, Michael:1:
+:953:Lautier, Joel:Adams, Michael:1:
+:954:Adams, Michael:Lautier, Joel:1:
+:955:Epishin, Vladimir:Adams, Michael:0:
+:956:Adams, Michael:Sokolov, Ivan:0:
+:957:Dautov, Rustem:Adams, Michael:0:
+:958:Adams, Michael:Van Wely, Loek:-1:
+:959:Andersson, Ulf:Adams, Michael:-1:
+:960:Adams, Michael:Lutz, Christopher:-1:
+:961:Tkachiev, Vladislav:Adams, Michael:0:
+:962:Adams, Michael:Tkachiev, Vladislav:0:
+:963:Tkachiev, Vladislav:Adams, Michael:0:
+:964:Adams, Michael:Tkachiev, Vladislav:1:
+:965:Lutz, Christopher:Adams, Michael:0:
+:966:Lutz, Christopher:Adams, Michael:0:
+:967:Adams, Michael:Lutz, Christopher:0:
+:968:Adams, Michael:Tkachiev, Vladislav:0:
+:969:Adams, Michael:Onischuk, Alexander:-1:
+:970:Winants, Luc:Adams, Michael:-1:
+:971:Adams, Michael:Lutz, Christopher:1:
+:972:Hansen, Lars Bo:Adams, Michael:-1:
+:973:Adams, Michael:Hulak, Krunoslav:0:
+:974:Sokolov, Ivan:Adams, Michael:0:
+:975:Adams, Michael:Tiviakov, Sergei:-1:
+:976:Zvjaginsev, Vadim:Adams, Michael:-1:
+:977:Adams, Michael:Khalifman, Alexander:0:
+:978:Sokolov, Ivan:Adams, Michael:0:
+:979:Smirin, Ilia:Adams, Michael:1:
+:980:Bauer, Christian:Adams, Michael:-1:
+:981:Leko, Peter:Adams, Michael:1:
+:982:Leko, Peter:Adams, Michael:-1:
+:983:Adams, Michael:Glek, Igor V:1:
+:984:Adams, Michael:Lautier, Joel:0:
+:985:Adams, Michael:Leko, Peter:1:
+:986:Adams, Michael:Leko, Peter:1:
+:987:Adams, Michael:Smirin, Ilia:0:
+:988:Adams, Michael:Smirin, Ilia:0:
+:989:Glek, Igor V:Adams, Michael:0:
+:990:Leko, Peter:Adams, Michael:-1:
+:991:Adams, Michael:Huebner, Robert:0:
+:992:Kramnik, Vladimir:Adams, Michael:1:
+:993:Adams, Michael:Shirov, Alexei:0:
+:994:Topalov, Veselin:Adams, Michael:-1:
+:995:Adams, Michael:Gelfand, Boris:0:
+:996:Polgar, Judit:Adams, Michael:1:
+:997:Lobron, Eric:Adams, Michael:0:
+:998:Adams, Michael:Anand, Viswanathan:0:
+:999:Adams, Michael:Gelfand, Boris:1:
+:1000:Adams, Michael:Pribyl, Martin:1:
+:1001:Adams, Michael:Unzicker, Wolfgang:1:
+:1002:Adams, Michael:Van der Sterren, Paul:1:
+:1003:Bologan, Viktor:Adams, Michael:-1:
+:1004:Glek, Igor V:Adams, Michael:0:
+:1005:Lutz, Christopher:Adams, Michael:0:
+:1006:Rogers, Ian:Adams, Michael:0:
+:1007:Khalifman, Alexander:Adams, Michael:0:
+:1008:Adams, Michael:Hracek, Zbynek:0:
+:1009:Adams, Michael:Van der Sterren, Paul:0:
+:1010:Glek, Igor V:Adams, Michael:0:
+:1011:Hebden, Mark:Adams, Michael:1:
+:1012:Adams, Michael:Nunn, John DM:-1:
+:1013:Rozentalis, Eduardas:Adams, Michael:1:
+:1014:Flear, Glenn C:Adams, Michael:0:
+:1015:Adams, Michael:Lalic, Bogdan:0:
+:1016:Motwani, Paul:Adams, Michael:0:
+:1017:Adams, Michael:Xie Jun:1:
+:1018:Movsesian, Sergei:Adams, Michael:-1:
+:1019:Adams, Michael:Conquest, Stuart:1:
+:1020:Adams, Michael:Klarenbeek, Hans:1:
+:1021:Adams, Michael:O'Donovan, Richard:1:
+:1022:McShane, Luke J:Adams, Michael:-1:
+:1023:Adams, Michael:Baburin, Alexander:1:
+:1024:King, Daniel J:Adams, Michael:-1:
+:1025:Adams, Michael:Nunn, John DM:0:
+:1026:Watson, William N:Adams, Michael:-1:
+:1027:Crouch, Colin S:Adams, Michael:-1:
+:1028:Adams, Michael:Dautov, Rustem:1:
+:1029:Adams, Michael:Burkart, Patrick:1:
+:1030:Adams, Michael:Illescas Cordoba, Miguel:-1:
+:1031:Morozevich, Alexander:Adams, Michael:0:
+:1032:Adams, Michael:San Segundo, Pablo:1:
+:1033:Azmaiparashvili, Zurab:Adams, Michael:0:
+:1034:Adams, Michael:Shirov, Alexei:0:
+:1035:Adams, Michael:Kortschnoj, Viktor:0:
+:1036:Salov, Valery:Adams, Michael:1:
+:1037:Adams, Michael:Topalov, Veselin:-1:
+:1038:Gelfand, Boris:Adams, Michael:0:
+:1039:Kelleher, William:Adams, Michael:-1:
+:1040:Waitzkin, Joshua:Adams, Michael:-1:
+:1041:Adams, Michael:Wolff, Patrick G:1:
+:1042:Adams, Michael:Ruiz, Mauricio:1:
+:1043:Salov, Valery:Adams, Michael:0:
+:1044:Adams, Michael:Cunningham, Robin:1:
+:1045:Adams, Michael:Dzindzichashvili, Roman:0:
+:1046:Kreiman, Boris:Adams, Michael:-1:
+:1047:De Firmian, Nick E:Adams, Michael:-1:
+:1048:Adams, Michael:Serper, Grigory:1:
+:1049:Adams, Michael:Poluljahov, Aleksandr:1:
+:1050:Ashley, Maurice:Adams, Michael:0:
+:1051:Van Wely, Loek:Adams, Michael:0:
+:1052:Adams, Michael:Benjamin, Joel:1:
+:1053:Adams, Michael:Stefansson, Hannes:1:
+:1054:Kortschnoj, Viktor:Adams, Michael:-1:
+:1055:Sunye Neto, Jaime:Adams, Michael:0:
+:1056:Adams, Michael:Sokolov, Ivan:0:
+:1057:Adams, Michael:Van Wely, Loek:0:
+:1058:Gelfand, Boris:Adams, Michael:1:
+:1059:Adams, Michael:Polgar, Judit:1:
+:1060:Piket, Jeroen:Adams, Michael:0:
+:1061:Adams, Michael:Svidler, Peter:0:
+:1062:Adams, Michael:Leko, Peter:0:
+:1063:Almasi, Zoltan:Adams, Michael:0:
+:1064:Adams, Michael:Lautier, Joel:0:
+:1065:Sutovskij, Emil:Adams, Michael:-1:
+:1066:Adams, Michael:Karpov, Anatoly:0:
+:1067:Shirov, Alexei:Adams, Michael:1:
+:1068:Leko, Peter:Adams, Michael:0:
+:1069:Adams, Michael:Topalov, Veselin:0:
+:1070:Anand, Viswanathan:Adams, Michael:1:
+:1071:Adams, Michael:Ivanchuk, Vassily:0:
+:1072:Shirov, Alexei:Adams, Michael:1:
+:1073:Tiviakov, Sergei:Adams, Michael:1:
+:1074:Adams, Michael:Dreev, Alexey:1:
+:1075:Sokolov, Ivan:Adams, Michael:-1:
+:1076:Adams, Michael:Piket, Jeroen:0:
+:1077:Gelfand, Boris:Adams, Michael:0:
+:1078:Adams, Michael:Huebner, Robert:1:
+:1079:Timman, Jan H:Adams, Michael:0:
+:1080:Adams, Michael:Van Wely, Loek:1:
+:1081:Sitanggang, Salor:Adams, Michael:-1:
+:1082:Danielsen, Henrik:Adams, Michael:0:
+:1083:Adams, Michael:Rausis, Igors:0:
+:1084:Adams, Michael:Marin, Mihail:0:
+:1085:Van Wely, Loek:Adams, Michael:0:
+:1086:Giorgadze, Giorgi:Adams, Michael:1:
+:1087:Adams, Michael:Illescas Cordoba, Miguel:0:
+:1088:Adams, Michael:Lalic, Bogdan:0:
+:1089:Adams, Michael:Tu Hoang Thong:1:
+:1090:Vaganian, Rafael A:Adams, Michael:-1:
+:1091:Xu Jun:Adams, Michael:0:
+:1092:Alterman, Boris:Adams, Michael:0:
+:1093:Adams, Michael:Portisch, Lajos:0:
+:1094:Morovic Fernandez, Ivan:Adams, Michael:0:
+:1095:Morovic Fernandez, Ivan:Adams, Michael:0:
+:1096:Adams, Michael:Morovic Fernandez, Ivan:1:
+:1097:Morovic Fernandez, Ivan:Adams, Michael:-1:
+:1098:Adams, Michael:Shirov, Alexei:1:
+:1099:Kramnik, Vladimir:Adams, Michael:0:
+:1100:Adams, Michael:Gelfand, Boris:1:
+:1101:Piket, Jeroen:Adams, Michael:0:
+:1102:Adams, Michael:Nikolic, Predrag:0:
+:1103:Topalov, Veselin:Adams, Michael:0:
+:1104:Adams, Michael:Khalifman, Alexander:-1:
+:1105:Hansen, Curt:Adams, Michael:0:
+:1106:Adams, Michael:Larsen, Bent:0:
+:1107:Stefansson, Hannes:Adams, Michael:0:
+:1108:Adams, Michael:Rozentalis, Eduardas:0:
+:1109:Hellers, Ferdinand:Adams, Michael:-1:
+:1110:Adams, Michael:Nielsen, Peter Heine:1:
+:1111:Schandorff, Lars:Adams, Michael:0:
+:1112:Adams, Michael:Sheldon, Ruth:1:
+:1113:Adams, Michael:Ward, Christopher:0:
+:1114:Miles, Anthony J:Adams, Michael:0:
+:1115:Adams, Michael:Emms, John M:0:
+:1116:Hebden, Mark:Adams, Michael:0:
+:1117:Adams, Michael:Emms, John M:0:
+:1118:Adams, Michael:Sadler, Matthew:1:
+:1119:Miles, Anthony J:Adams, Michael:0:
+:1120:Adams, Michael:Kosten, Anthony C:1:
+:1121:Volke, Karsten:Adams, Michael:0:
+:1122:Agdestein, Espen:Adams, Michael:-1:
+:1123:Adams, Michael:Onischuk, Alexander:1:
+:1124:Leko, Peter:Adams, Michael:0:
+:1125:Adams, Michael:Piket, Jeroen:0:
+:1126:Adams, Michael:Shirov, Alexei:0:
+:1127:Adams, Michael:Kasparov, Gary:0:
+:1128:Adams, Michael:Lautier, Joel:1:
+:1129:Polgar, Judit:Adams, Michael:0:
+:1130:Pelletier, Yannick:Adams, Michael:0:
+:1131:Adams, Michael:Benjamin, Joel:1:
+:1132:Chiburdanidze, Maia:Adams, Michael:-1:
+:1133:Adams, Michael:Nogueiras, Jesus:0:
+:1134:Onischuk, Alexander:Adams, Michael:0:
+:1135:Adams, Michael:Vaganian, Rafael A:0:
+:1136:Adams, Michael:Plaskett, Jim:1:
+:1137:Adams, Michael:McShane, Luke J:1:
+:1138:Zimmerman, R.:Adams, Michael:-1:
+:1139:Adams, Michael:Hennigan, Michael:1:
+:1140:McShane, Luke J:Adams, Michael:-1:
+:1141:Adams, Michael:King, Daniel J:1:
+:1142:Baburin, Alexander:Adams, Michael:0:
+:1143:Adams, Michael:Bellin, Robert:1:
+:1144:Adams, Michael:Giorgadze, Giorgi:1:
+:1145:Giorgadze, Giorgi:Adams, Michael:-1:
+:1146:Adams, Michael:Tiviakov, Sergei:1:
+:1147:Tiviakov, Sergei:Adams, Michael:0:
+:1148:Adams, Michael:Svidler, Peter:0:
+:1149:Svidler, Peter:Adams, Michael:0:
+:1150:Adams, Michael:Svidler, Peter:-1:
+:1151:Svidler, Peter:Adams, Michael:-1:
+:1152:Van Wely, Loek:Adams, Michael:0:
+:1153:Adams, Michael:Van Wely, Loek:1:
+:1154:Short, Nigel D:Adams, Michael:1:
+:1155:Short, Nigel D:Adams, Michael:-1:
+:1156:Adams, Michael:Short, Nigel D:0:
+:1157:Short, Nigel D:Adams, Michael:0:
+:1158:Adams, Michael:Short, Nigel D:0:
+:1159:Short, Nigel D:Adams, Michael:0:
+:1160:Adams, Michael:Anand, Viswanathan:0:
+:1161:Anand, Viswanathan:Adams, Michael:0:
+:1162:Anand, Viswanathan:Adams, Michael:0:
+:1163:Anand, Viswanathan:Adams, Michael:0:
+:1164:Adams, Michael:Anand, Viswanathan:0:
+:1165:Adams, Michael:Anand, Viswanathan:0:
+:1166:Anand, Viswanathan:Adams, Michael:0:
+:1167:Anand, Viswanathan:Adams, Michael:1:
+:1168:Adams, Michael:Kengis, Edvins:1:
+:1169:Adams, Michael:McDonald, Neil R:1:
+:1170:Arkell, Keith C:Adams, Michael:0:
+:1171:Adams, Michael:Botterill, George Steven:1:
+:1172:Littlewood, Paul E:Adams, Michael:0:
+:1173:Adams, Michael:Knezevic, Bojan:1:
+:1174:Kozakov, Mikhail:Adams, Michael:-1:
+:1175:Adams, Michael:Bernard, Christophe:1:
+:1176:Vaisser, Anatoli:Adams, Michael:0:
+:1177:Kramnik, Vladimir:Adams, Michael:0:
+:1178:Onischuk, Alexander:Adams, Michael:0:
+:1179:Dautov, Rustem:Adams, Michael:0:
+:1180:Adams, Michael:Wahls, Matthias:1:
+:1181:Adams, Michael:Gyimesi, Zoltan:1:
+:1182:Adams, Michael:Bologan, Viktor:1:
+:1183:Hracek, Zbynek:Adams, Michael:0:
+:1184:Adams, Michael:Womacka, Mathias:1:
+:1185:Adams, Michael:Ftacnik, Lubomir:0:
+:1186:Shirov, Alexei:Adams, Michael:-1:
+:1187:Svidler, Peter:Adams, Michael:-1:
+:1188:Adams, Michael:Svidler, Peter:1:
+:1189:Adams, Michael:Van Wely, Loek:0:
+:1190:Van Wely, Loek:Adams, Michael:0:
+:1191:Adams, Michael:Short, Nigel D:1:
+:1192:Adams, Michael:Anand, Viswanathan:0:
+:1193:Ferguson, Mark:Adams, Michael:-1:
+:1194:Adams, Michael:McShane, Luke J:1:
+:1195:Plaskett, Jim:Adams, Michael:-1:
+:1196:Adams, Michael:Martin, Andrew D:0:
+:1197:Summerscale, Aaron:Adams, Michael:0:
+:1198:Adams, Michael:Molvig, Henrik:1:
+:1199:Mortensen, Erling:Adams, Michael:-1:
+:1200:Adams, Michael:Volzhin, Alexander:0:
+:1201:Yakovich, Yuri:Adams, Michael:0:
+:1202:Adams, Michael:Sokolov, Ivan:0:
+:1203:Hansen, Lars Bo:Adams, Michael:1:
+:1204:Adams, Michael:Drazic, Sinisa:1:
+:1205:Rozentalis, Eduardas:Adams, Michael:0:
+:1206:Adams, Michael:Hector, Jonny:-1:
+:1207:Adams, Michael:Dreev, Alexey:1:
+:1208:Adams, Michael:Ivanchuk, Vassily:0:
+:1209:Polgar, Judit:Adams, Michael:0:
+:1210:Adams, Michael:Anand, Viswanathan:0:
+:1211:Kasparov, Gary:Adams, Michael:1:
+:1212:Norwood, David:Adams, Michael:-1:
+:1213:Adams, Michael:Kozul, Zdenko:1:
+:1214:Khalifman, Alexander:Adams, Michael:1:
+:1215:Ehlvest, Jaan:Adams, Michael:0:
+:1216:Adams, Michael:Cramling, Pia:0:
+:1217:Fedorov, Alexei:Adams, Michael:1:
+:1218:Magem Badals, Jorge:Adams, Michael:0:
+:1219:Kozul, Zdenko:Adams, Michael:0:
+:1220:Adams, Michael:Lputian, Smbat G:1:
+:1221:Almasi, Zoltan:Adams, Michael:-1:
+:1222:Svidler, Peter:Adams, Michael:0:
+:1223:Adams, Michael:Dautov, Rustem:0:
+:1224:Adams, Michael:Morovic Fernandez, Ivan:1:
+:1225:Adams, Michael:Morovic Fernandez, Ivan:0:
+:1226:Ferguson, Mark:Adams, Michael:0:
+:1227:Holland, Christopher:Adams, Michael:-1:
+:1228:Bates, Richard:Adams, Michael:-1:
+:1229:Allicock, Rawle:Adams, Michael:-1:
+:1230:Adams, Michael:Mah, Karl:1:
+:1231:Adams, Michael:Collinson, Adam:0:
+:1232:Adams, Michael:Brooks, Phil J:1:
+:1233:Kramnik, Vladimir:Adams, Michael:0:
+:1234:Adams, Michael:Van Wely, Loek:0:
+:1235:Shaked, Tal:Adams, Michael:-1:
+:1236:Svidler, Peter:Adams, Michael:0:
+:1237:Adams, Michael:Van der Sterren, Paul:1:
+:1238:Karpov, Anatoly:Adams, Michael:0:
+:1239:Adams, Michael:Shirov, Alexei:-1:
+:1240:Karpov, Anatoly:Adams, Michael:0:
+:1241:Adams, Michael:Topalov, Veselin:0:
+:1242:Adams, Michael:Kramnik, Vladimir:1:
+:1243:Nijboer, Friso:Adams, Michael:-1:
+:1244:Piket, Jeroen:Adams, Michael:-1:
+:1245:Adams, Michael:Van Wely, Loek:0:
+:1246:Adams, Michael:Salov, Valery:0:
+:1247:Gelfand, Boris:Adams, Michael:0:
+:1248:Nijboer, Friso:Adams, Michael:-1:
+:1249:Adams, Michael:Piket, Jeroen:0:
+:1250:Adams, Michael:Gelfand, Boris:0:
+:1251:Shirov, Alexei:Adams, Michael:1:
+:1252:Adams, Michael:Timman, Jan H:-1:
+:1253:Van Wely, Loek:Adams, Michael:-1:
+:1254:Adams, Michael:Salov, Valery:1:
+:1255:Anand, Viswanathan:Adams, Michael:0:
+:1256:Adams, Michael:Topalov, Veselin:1:
+:1257:Polgar, Judit:Adams, Michael:0:
+:1258:Adams, Michael:Martin, Andrew D:1:
+:1259:Pert, Nicholas:Adams, Michael:-1:
+:1260:Rowson, Jonathan:Adams, Michael:-1:
+:1261:Adams, Michael:Rowson, Jonathan:1:
+:1262:Adams, Michael:Rowson, Jonathan:0:
+:1263:Adams, Michael:Rowson, Jonathan:0:
+:1264:Adams, Michael:Illescas Cordoba, Miguel:0:
+:1265:Krasenkow, Michal:Adams, Michael:0:
+:1266:Adams, Michael:Yermolinsky, Alex:0:
+:1267:Adams, Michael:Granda Zuniga, Julio E:1:
+:1268:Beliavsky, Alexander G:Adams, Michael:0:
+:1269:Adams, Michael:Svidler, Peter:0:
+:1270:San Segundo, Pablo:Adams, Michael:0:
+:1271:Adams, Michael:King, Daniel J:0:
+:1272:Adams, Michael:Ivanchuk, Vassily:0:
+:1273:Leko, Peter:Adams, Michael:0:
+:1274:Adams, Michael:Almasi, Zoltan:1:
+:1275:Kramnik, Vladimir:Adams, Michael:0:
+:1276:Adams, Michael:Svidler, Peter:0:
+:1277:Adams, Michael:Anand, Viswanathan:1:
+:1278:Adams, Michael:Shirov, Alexei:0:
+:1279:Jussupow, Artur:Adams, Michael:0:
+:1280:Kramnik, Vladimir:Adams, Michael:1:
+:1281:Adams, Michael:Guseinov, Aidyn:0:
+:1282:Temirbaev, Serik:Adams, Michael:0:
+:1283:Adams, Michael:Alterman, Boris:0:
+:1284:Adams, Michael:Spraggett, Kevin:0:
+:1285:Rozentalis, Eduardas:Adams, Michael:-1:
+:1286:Svidler, Peter:Adams, Michael:1:
+:1287:Yermolinsky, Alex:Adams, Michael:0:
+:1288:Adams, Michael:Van Wely, Loek:0:
+:1289:Kortschnoj, Viktor:Adams, Michael:-1:
+:1290:Adams, Michael:Zvjaginsev, Vadim:0:
+:1291:Sadler, Matthew:Adams, Michael:1:
+:1292:Adams, Michael:Svidler, Peter:1:
+:1293:Anand, Viswanathan:Adams, Michael:1:
+:1294:Adams, Michael:Kramnik, Vladimir:0:
+:1295:Piket, Jeroen:Adams, Michael:0:
+:1296:Adams, Michael:Topalov, Veselin:1:
+:1297:Leko, Peter:Adams, Michael:1:
+:1298:Adams, Michael:Lautier, Joel:0:
+:1299:Movsesian, Sergei:Adams, Michael:1:
+:1300:Adams, Michael:Bologan, Viktor:1:
+:1301:Beliavsky, Alexander G:Adams, Michael:-1:
+:1302:Adams, Michael:Keitlinghaus, Ludger:0:
+:1303:Adams, Michael:Sax, Gyula:1:
+:1304:Lutz, Christopher:Adams, Michael:0:
+:1305:Rozentalis, Eduardas:Adams, Michael:-1:
+:1306:Rowson, Jonathan:Adams, Michael:-1:
+:1307:Rowson, Jonathan:Adams, Michael:-1:
+:1308:Anand, Viswanathan:Adams, Michael:1:
+:1309:Leko, Peter:Adams, Michael:0:
+:1310:Adams, Michael:Kramnik, Vladimir:-1:
+:1311:Yudasin, Leonid:Adams, Michael:0:
+:1312:Adams, Michael:Kozul, Zdenko:1:
+:1313:Adams, Michael:Rozentalis, Eduardas:1:
+:1314:Seirawan, Yasser:Adams, Michael:-1:
+:1315:Adams, Michael:Seirawan, Yasser:0:
+:1316:Seirawan, Yasser:Adams, Michael:0:
+:1317:Adams, Michael:Seirawan, Yasser:-1:
+:1318:Seirawan, Yasser:Adams, Michael:0:
+:1319:Adams, Michael:Seirawan, Yasser:-1:
+:1320:Seirawan, Yasser:Adams, Michael:0:
+:1321:Adams, Michael:Seirawan, Yasser:1:
+:1322:Seirawan, Yasser:Adams, Michael:0:
+:1323:Adams, Michael:Seirawan, Yasser:0:
+:1324:Adams, Michael:Leko, Peter:1:
+:1325:Topalov, Veselin:Adams, Michael:0:
+:1326:Adams, Michael:Svidler, Peter:0:
+:1327:Ivanchuk, Vassily:Adams, Michael:-1:
+:1328:Adams, Michael:Kasparov, Gary:-1:
+:1329:Kramnik, Vladimir:Adams, Michael:1:
+:1330:Adams, Michael:Anand, Viswanathan:0:
+:1331:Leko, Peter:Adams, Michael:0:
+:1332:Adams, Michael:Topalov, Veselin:0:
+:1333:Svidler, Peter:Adams, Michael:1:
+:1334:Adams, Michael:Ivanchuk, Vassily:0:
+:1335:Kasparov, Gary:Adams, Michael:1:
+:1336:Adams, Michael:Kramnik, Vladimir:0:
+:1337:Anand, Viswanathan:Adams, Michael:1:
+:1338:Schlosser, Philipp:Adams, Michael:0:
+:1339:Adams, Michael:Votava, Jan:1:
+:1340:Adams, Michael:Svidler, Peter:1:
+:1341:Anand, Viswanathan:Adams, Michael:0:
+:1342:Adams, Michael:Kortschnoj, Viktor:1:
+:1343:Illescas Cordoba, Miguel:Adams, Michael:0:
+:1344:Adams, Michael:Gelfand, Boris:0:
+:1345:Polgar, Judit:Adams, Michael:-1:
+:1346:Adams, Michael:Topalov, Veselin:0:
+:1347:Karpov, Anatoly:Adams, Michael:0:
+:1348:Adams, Michael:Kramnik, Vladimir:0:
+:1349:Adams, Michael:Hausrath, Daniel:0:
+:1350:Adams, Michael:De Vreugt, Dennis:1:
+:1351:Adams, Michael:Short, Nigel D:1:
+:1352:Topalov, Veselin:Adams, Michael:1:
+:1353:Adams, Michael:Sokolov, Ivan:1:
+:1354:Leko, Peter:Adams, Michael:0:
+:1355:Adams, Michael:Morozevich, Alexander:0:
+:1356:Timman, Jan H:Adams, Michael:-1:
+:1357:Adams, Michael:Shirov, Alexei:0:
+:1358:Adams, Michael:Bareev, Evgeny:0:
+:1359:Kasparov, Gary:Adams, Michael:1:
+:1360:Topalov, Veselin:Adams, Michael:0:
+:1361:Adams, Michael:Fritz 6:0:
+:1362:Morozevich, Alexander:Adams, Michael:0:
+:1363:Adams, Michael:Polgar, Judit:-1:
+:1364:Leko, Peter:Adams, Michael:0:
+:1365:Svidler, Peter:Adams, Michael:0:
+:1366:Adams, Michael:Lutz, Christopher:-1:
+:1367:Adams, Michael:Topalov, Veselin:-1:
+:1368:Fritz 6:Adams, Michael:1:
+:1369:Adams, Michael:Morozevich, Alexander:-1:
+:1370:Polgar, Judit:Adams, Michael:0:
+:1371:Adams, Michael:Leko, Peter:-1:
+:1372:Adams, Michael:Svidler, Peter:0:
+:1373:Lutz, Christopher:Adams, Michael:1:
+:1374:Orsag, Milan:Adams, Michael:-1:
+:1375:Pichler, Juergen:Adams, Michael:1:
+:1376:Gutman, Lev:Adams, Michael:-1:
+:1377:Adams, Michael:Van Wely, Loek:0:
+:1378:Lutz, Christopher:Adams, Michael:-1:
+:1379:Adams, Michael:Timman, Jan H:1:
+:1380:Adams, Michael:Anand, Viswanathan:0:
+:1381:Leko, Peter:Adams, Michael:1:
+:1382:Adams, Michael:Karpov, Anatoly:0:
+:1383:Sokolov, Ivan:Adams, Michael:0:
+:1384:Adams, Michael:Kramnik, Vladimir:0:
+:1385:Topalov, Veselin:Adams, Michael:-1:
+:1386:Kobalija, Mihail:Adams, Michael:-1:
+:1387:Adams, Michael:Kobalija, Mihail:1:
+:1388:Almasi, Zoltan:Adams, Michael:0:
+:1389:Adams, Michael:Almasi, Zoltan:1:
+:1390:Adams, Michael:Dreev, Alexey:0:
+:1391:Dreev, Alexey:Adams, Michael:0:
+:1392:Dreev, Alexey:Adams, Michael:-1:
+:1393:Adams, Michael:Dreev, Alexey:0:
+:1394:Adams, Michael:Dreev, Alexey:1:
+:1395:Dreev, Alexey:Adams, Michael:0:
+:1396:Kramnik, Vladimir:Adams, Michael:0:
+:1397:Adams, Michael:Kramnik, Vladimir:0:
+:1398:Adams, Michael:Kramnik, Vladimir:1:
+:1399:Kramnik, Vladimir:Adams, Michael:-1:
+:1400:Kramnik, Vladimir:Adams, Michael:0:
+:1401:Adams, Michael:Kramnik, Vladimir:0:
+:1402:Adams, Michael:Akopian, Vladimir:-1:
+:1403:Akopian, Vladimir:Adams, Michael:0:
+:1404:Adams, Michael:Akopian, Vladimir:-1:
+:1405:Adams,Mi:Arkell,K:1:
+:1406:O'Cinneide,M:Adams,Mi:-1:
+:1407:Adams,Mi:Bellin,R:1:
+:1408:Hebden,M:Adams,Mi:0:
+:1409:Adams,Mi:McShane,L:0:
+:1410:Baburin,A:Adams,Mi:-1:
+:1411:Adams,Mi:Lalic,B:-1:
+:1412:Adams,Mi:Ftacnik,L:0:
+:1413:Speelman,J:Adams,Mi:-1:
+:1414:Hamdouchi, Hichem:Adams, Michael:-1:
+:1415:Summerscale, Aaron:Adams, Michael:-1:
+:1416:Adams, Michael:Magem Badals, Jorge:1:
+:1417:Adams, Michael:Skripchenko, Almira:1:
+:1418:Koch, Jean Rene:Adams, Michael:0:
+:1419:Adams, Michael:Solozhenkin, Evgeniy:1:
+:1420:Tkachiev, Vladislav:Adams, Michael:1:
+:1421:Kramnik,V:Adams,Mi:1:
+:1422:Adams,Mi:Polgar,Ju:0:
+:1423:Korchnoi,V:Adams,Mi:0:
+:1424:Adams,Mi:Kasparov,G:0:
+:1425:Van Wely,L:Adams,Mi:-1:
+:1426:Piket,Je:Adams,Mi:0:
+:1427:Adams,Mi:Morozevich,A:0:
+:1428:Short,N:Adams,Mi:-1:
+:1429:Adams,Mi:Anand,V:0:
+:1430:Lputian,S:Adams,Mi:0:
+:1431:Adams,Mi:Timman,J:1:
+:1432:Nikolic,Pr:Adams,Mi:1:
+:1433:Adams,Mi:Leko,P:0:
+:1434:Adams,Mi:Seirawan,Y:1:
+:1435:Seirawan,Y:Adams,Mi:0:
+:1436:Adams,Mi:Seirawan,Y:1:
+:1437:Adams,Mi:Gulko,B:0:
+:1438:Gulko,B:Adams,Mi:-1:
+:1439:Seirawan,Y:Adams,Mi:0:
+:1440:Adams,Mi:Seirawan,Y:0:
+:1441:Seirawan,Y:Adams,Mi:0:
+:1442:Adams,Mi:Seirawan,Y:0:
+:1443:Seirawan,Y:Adams,Mi:0:
+:1444:Adams,Mi:Deep Junior:0:
+:1445:Kasparov,G:Adams,Mi:1:
+:1446:Adams,Mi:Kasparov,G:0:
+:1447:Liiva,R:Adams,Mi:0:
+:1448:Adams,Mi:Soza,J:1:
+:1449:Zarnicki,P:Adams,Mi:0:
+:1450:Adams,Mi:Kogan,A:-1:
+:1451:Van de Mortel,J:Adams,Mi:0:
+:1452:Adams,Mi:Visser,Y:1:
+:1453:Adams,Mi:Fressinet,L:1:
+:1454:Fressinet,L:Adams,Mi:0:
+:1455:Lautier,J:Adams,Mi:-1:
+:1456:Adams,Mi:Lautier,J:1:
+:1457:Adams,Mi:King,D:0:
+:1458:King,D:Adams,Mi:-1:
+:1459:Lalic,B:Adams,Mi:-1:
+:1460:Adams,Mi:Emms,J:1:
+:1461:Emms,J:Adams,Mi:0:
+:1462:Adams,Mi:Rowson,J:0:
+:1463:Rowson,J:Adams,Mi:0:
+:1464:Adams,Mi:Rowson,J:0:
+:1465:Adams,Mi:Lalic,B:0:
+:1466:Lalic,B:Adams,Mi:0:
+:1467:Adams,Mi:Lalic,B:0:
+:1468:Lalic,B:Adams,Mi:0:
+:1469:Shirov,A:Adams,Mi:0:
+:1470:Adams,Mi:Kasparov,G:0:
+:1471:Georgiev,Ki:Adams,Mi:0:
+:1472:Adams,Mi:Movsesian,S:0:
+:1473:Bacrot,E:Adams,Mi:-1:
+:1474:Bareev,E:Adams,Mi:0:
+:1475:Adams,Mi:Gurevich,M:1:
+:1476:Topalov,V:Adams,Mi:-1:
+:1477:Adams,Mi:Sokolov,I:1:
+:1478:Short,N:Adams,Mi:0:
+:1479:Adams,Mi:Morozevich,A:1:
+:1480:Hoffmann,M:Adams,Mi:-1:
+:1481:Adams,Mi:Ljubojevic,L:0:
+:1482:Bareev,E:Adams,Mi:-1:
+:1483:Adams,Mi:Ivanchuk,V:0:
+:1484:Rabiega,R:Adams,Mi:-1:
+:1485:Adams,Mi:Rublevsky,S:-1:
+:1486:Jussupow,A:Adams,Mi:0:
+:1487:Topalov,V:Adams,Mi:-1:
+:1488:Adams,Mi:Van Wely,L:1:
+:1489:Adams,Mi:Bareev,E:0:
+:1490:Ivanchuk,V:Adams,Mi:-1:
+:1491:Adams,Mi:Rabiega,R:1:
+:1492:Rublevsky,S:Adams,Mi:0:
+:1493:Adams,Mi:Jussupow,A:1:
+:1494:Adams,Mi:Topalov,V:1:
+:1495:Van Wely,L:Adams,Mi:0:
+:1496:Adams,Mi:Piket,Je:1:
+:1497:Bareev,E:Adams,Mi:0:
+:1498:Adams,Mi:DEEP JUNIOR 6:0:
+:1499:Adams,Mi:Kramnik,V:1:
+:1500:Anand,V:Adams,Mi:1:
+:1501:Adams,Mi:Leko,P:0:
+:1502:Huebner,R:Adams,Mi:0:
+:1503:Adams,Mi:Khalifman,A:0:
+:1504:Akopian,V:Adams,Mi:0:
+:1505:Huzman,A:Adams,Mi:1:
+:1506:Motylev,A:Adams,Mi:-1:
+:1507:Adams,Mi:Stohl,I:1:
+:1508:Muse,M:Adams,Mi:1:
+:1509:Adhami,V:Adams,Mi:-1:
+:1510:Adams,Mi:Gonzalez,Bernal:1:
+:1511:Adams,Mi:Gonzalez,Bernal:1:
+:1512:Van Wely,L:Adams,Mi:0:
+:1513:Adams,Mi:Hansen,Cu:0:
+:1514:Morovic Fernandez,I:Adams,Mi:-1:
+:1515:Adams,Mi:Krasenkow,M:0:
+:1516:Adams,Mi:Stefansson,H:1:
+:1517:Milos,G:Adams,Mi:0:
+:1518:Adams,Mi:Papaioannou,I:1:
+:1519:Adams,Mi:Morozevich,A:0:
+:1520:Jussupow,A:Adams,Mi:0:
+:1521:Dao Thien Hai:Adams,Mi:0:
+:1522:Adams,Mi:Dao Thien Hai:0:
+:1523:Adams,Mi:Dao Thien Hai:1:
+:1524:Dao Thien Hai:Adams,Mi:-1:
+:1525:Yermolinsky,A:Adams,Mi:0:
+:1526:Adams,Mi:Yermolinsky,A:0:
+:1527:Yermolinsky,A:Adams,Mi:-1:
+:1528:Adams,Mi:Yermolinsky,A:1:
+:1529:Svidler,P:Adams,Mi:0:
+:1530:Adams,Mi:Svidler,P:0:
+:1531:Adams,Mi:Svidler,P:1:
+:1532:Svidler,P:Adams,Mi:0:
+:1533:Adams,Mi:Topalov,V:1:
+:1534:Topalov,V:Adams,Mi:0:
+:1535:Adams,Mi:Anand,V:0:
+:1536:Anand,V:Adams,Mi:1:
+:1537:Adams,Mi:Anand,V:0:
+:1538:Anand,V:Adams,Mi:0:
+:1539:Adams,Mi:Anand,V:0:
+:1540:Ivanchuk,V:Adams,Mi:0:
+:1541:Adams,Mi:Kramnik,V:0:
+:1542:Morozevich,A:Adams,Mi:-1:
+:1543:Adams,Mi:Topalov,V:0:
+:1544:Leko,P:Adams,Mi:0:
+:1545:Adams,Mi:Shirov,A:0:
+:1546:Piket,Je:Adams,Mi:0:
+:1547:Adams,Mi:Timman,J:0:
+:1548:Van Wely,L:Adams,Mi:-1:
+:1549:Adams,Mi:Fedorov,Alex:-1:
+:1550:Adams,Mi:Tiviakov,S:1:
+:1551:Kasparov,G:Adams,Mi:0:
+:1552:Mellado Trivino,J:Adams,Mi:-1:
+:1553:Adams,Mi:Bacrot,E:0:
+:1554:Adams,Mi:Leski,M:1:
+:1555:Kishnev,S:Adams,Mi:-1:
+:1556:Adams,Mi:Piket,Je:0:
+:1557:Adams,Mi:Gurevich,M:0:
+:1558:Khalifman,A:Adams,Mi:0:
+:1559:Adams,Mi:Tkachiev,V:0:
+:1560:Tkachiev,V:Adams,Mi:1:
+:1561:Adams,Mi:Tkachiev,V:1:
+:1562:Tkachiev,V:Adams,Mi:0:
+:1563:Adams,Mi:Tkachiev,V:0:
+:1564:Tkachiev,V:Adams,Mi:0:
+:1565:Bacrot,E:Adams,Mi:-1:
+:1566:Adams,Mi:Tkachiev,V:0:
+:1567:Kasimdzhanov,R:Adams,Mi:0:
+:1568:Adams,Mi:Morozevich,A:0:
+:1569:Hamdouchi,H:Adams,Mi:-1:
+:1570:Ye Jiangchuan:Adams,Mi:-1:
+:1571:Adams,Mi:Gurevich,M:0:
+:1572:Polgar,Ju:Adams,Mi:0:
+:1573:Adams,Mi:Polgar,Ju:-1:
+:1574:Adams,Mi:Legky,N:1:
+:1575:Adams,Mi:Ward,C:1:
+:1576:Ward,C:Adams,Mi:0:
+:1577:Chandler,M:Adams,Mi:0:
+:1578:Adams,Mi:Chandler,M:1:
+:1579:Lalic,B:Adams,Mi:0:
+:1580:Adams,Mi:Lalic,B:1:
+:1581:Hodgson,Ju:Adams,Mi:-1:
+:1582:Adams,Mi:Hodgson,Ju:1:
+:1583:Kallai,G:Adams,Mi:0:
+:1584:Koch,JR:Adams,Mi:-1:
+:1585:Adams,Mi:Van Wely,L:0:
+:1586:Adams,Mi:Bezold,M:1:
+:1587:Short,N:Adams,Mi:0:
+:1588:Bonnaire,Ulrich:Adams,Mi:-1:
+:1589:Pomes Marcet,J:Adams,Mi:-1:
+:1590:Adams,Mi:POCKET FRITZ:1:
+:1591:POCKET FRITZ:Adams,Mi:-1:
+:1592:Leko,P:Adams,Mi:1:
+:1593:Anand,V:Adams,Mi:0:
+:1594:Adams,Mi:Kramnik,V:0:
+:1595:Adams,Mi:Topalov,V:0:
+:1596:Morozevich,A:Adams,Mi:1:
+:1597:Adams,Mi:Leko,P:0:
+:1598:Adams,Mi:Anand,V:0:
+:1599:Kramnik,V:Adams,Mi:0:
+:1600:Adams,Mi:Morozevich,A:-1:
+:1601:Topalov,V:Adams,Mi:0:
+:1602:Adams,Mi:Hennigan,M:1:
+:1603:Conquest,S:Adams,Mi:-1:
+:1604:Khalifman,A:Adams,Mi:0:
+:1605:Adams,Mi:Gurevich,M:1:
+:1606:Adams,Mi:Vega Holm,F:1:
+:1607:Adams,Mi:Narciso Dublan,M:1:
+:1608:Campos Moreno,J:Adams,Mi:-1:
+:1609:Pomes Marcet,J:Adams,Mi:-1:
+:1610:Adams,Mi:Paramos Dominguez,R:1:
+:1611:Adams,Mi:Garcia Ilundain,D:0:
+:1612:Adams,Mi:Rojo Gomez,J:1:
+:1613:Vassallo,M:Adams,Mi:0:
+:1614:Adams,Mi:Svidler,P:0:
+:1615:Adams,Mi:Kengis,E:1:
+:1616:Kozul,Z:Adams,Mi:0:
+:1617:Milov,V:Adams,Mi:0:
+:1618:Adams,Mi:Bacrot,E:1:
+:1619:Shirov,A:Adams,Mi:-1:
+:1620:Adams,Mi:Van Wely,L:0:
+:1621:Adams,Mi:Lutz,C:1:
+:1622:Papaioannou,I:Adams,Mi:-1:
+:1623:Adams,Mi:Beliavsky,A:-1:
+:1624:Sarthou,G:Adams,Mi:-1:
+:1625:Adams,Mi:Sarthou,G:1:
+:1626:Adams,Mi:Kobalija,M:1:
+:1627:Kobalija,M:Adams,Mi:0:
+:1628:Zvjaginsev,V:Adams,Mi:0:
+:1629:Zvjaginsev,V:Adams,Mi:-1:
+:1630:Adams,Mi:Zvjaginsev,V:0:
+:1631:Adams,Mi:Zvjaginsev,V:1:
+:1632:Svidler,P:Adams,Mi:0:
+:1633:Svidler,P:Adams,Mi:0:
+:1634:Adams,Mi:Svidler,P:-1:
+:1635:Adams,Mi:Svidler,P:0:
+:1636:Svidler,P:Adams,Mi:0:
+:1637:Bareev,E:Adams,Mi:0:
+:1638:Adams,Mi:Grischuk,A:1:
+:1639:Gelfand,B:Adams,Mi:-1:
+:1640:Adams,Mi:Dreev,A:0:
+:1641:Khalifman,A:Adams,Mi:0:
+:1642:Adams,Mi:Lautier,J:0:
+:1643:Kasimdzhanov,R:Adams,Mi:0:
+:1644:Morozevich,A:Adams,Mi:0:
+:1645:Adams,Mi:Piket,Je:0:
+:1646:Van Wely,L:Adams,Mi:0:
+:1647:Adams,Mi:Gurevich,M:1:
+:1648:Leko,P:Adams,Mi:0:
+:1649:Adams,Mi:Timman,J:0:
+:1650:Ftacnik,L:Adams,Mi:0:
+:1651:Adams,Mi:Ponomariov,R:1:
+:1652:Shirov,A:Adams,Mi:0:
+:1653:Adams,Mi:Vallejo Pons,F:0:
+:1654:Kasparov,G:Adams,Mi:1:
+:1655:Adams,Mi:Anand,V:1:
+:1656:Ivanchuk,V:Adams,Mi:1:
+:1657:Ponomariov,R:Adams,Mi:1:
+:1658:Adams,Mi:Shirov,A:1:
+:1659:Vallejo Pons,F:Adams,Mi:0:
+:1660:Adams,Mi:Kasparov,G:0:
+:1661:Anand,V:Adams,Mi:0:
+:1662:Adams,Mi:Ivanchuk,V:0:
+:1663:Skripchenko,A:Adams,Mi:0:
+:1664:Adams,Mi:Kasimdzhanov,R:0:
+:1665:Radjabov,T:Adams,Mi:-1:
+:1666:Adams,Mi:Radjabov,T:0:
+:1667:Adams,Mi:Radjabov,T:0:
+:1668:Radjabov,T:Adams,Mi:0:
+:1669:Adams,Mi:Sokolov,I:0:
+:1670:Sokolov,I:Adams,Mi:1:
+:1671:Adams,Mi:Bistric,F:1:
+:1672:Feletar,D:Adams,Mi:-1:
+:1673:Adams,Mi:Nikolic,Pr:0:
+:1674:Nikolac,J:Adams,Mi:-1:
+:1675:Adams,Mi:Damljanovic,B:1:
+:1676:Adams,Mi:Leko,P:0:
+:1677:Morozevich,A:Adams,Mi:0:
+:1678:Adams,Mi:Bareev,E:0:
+:1679:Bareev,E:Adams,Mi:0:
+:1680:Adams,Mi:Morozevich,A:0:
+:1681:Leko,P:Adams,Mi:1:
+:1682:Adams,Mi:Banikas,H:0:
+:1683:Romanishin,O:Adams,Mi:1:
+:1684:Adams,Mi:Bareev,E:1:
+:1685:Sakaev,K:Adams,Mi:-1:
+:1686:Grischuk,A:Adams,Mi:1:
+:1687:Adams,Mi:Borovikov,V:1:
+:1688:Khalifman,A:Adams,Mi:0:
+:1689:Adams,Mi:Prusikhin,M:1:
+:1690:Khenkin,I:Adams,Mi:-1:
+:1691:Rozentalis,E:Adams,Mi:0:
+:1692:Adams,Mi:Torre,E:1:
+:1693:Stefansson,H:Adams,Mi:1:
+:1694:Adams,Mi:Valenzuela Fuentealba,L:1:
+:1695:Ponomariov,R:Adams,Mi:0:
+:1696:Adams,Mi:Vallejo Pons,F:0:
+:1697:Aleksandrov,A:Adams,Mi:-1:
+:1698:Adams,Mi:Sasikiran,K:1:
+:1699:Adams,Mi:Leko,P:0:
+:1700:Ye Jiangchuan:Adams,Mi:0:
+:1701:Adams,Mi:Lutz,C:0:
+:1702:Krasenkow,M:Adams,Mi:0:
+:1703:Cobb,J:Adams,Mi:-1:
+:1704:Adams,Mi:Littlewood,P:1:
+:1705:Macieja,B:Adams,Mi:0:
+:1706:Adams,Mi:Nikolic,Pr:0:
+:1707:Parker,J:Adams,Mi:0:
+:1708:Adams,Mi:Quinn,M:1:
+:1709:Adams,Mi:Nguyen Chi Minh:1:
+:1710:Kosten,A:Adams,Mi:-1:
+:1711:Adams,Mi:Komarov,D:0:
+:1712:Adams,Mi:Lutz,C:0:
+:1713:Breder,D:Adams,Mi:0:
+:1714:Bacrot,E:Adams,Mi:0:
+:1715:Adams,Mi:McShane,L:0:
+:1716:Gretarsson,H:Adams,Mi:-1:
+:1717:Adams,Mi:Kristjansson,S:1:
+:1718:Korchnoi,V:Adams,Mi:1:
+:1719:Macieja,B:Adams,Mi:0:
+:1720:Adams,Mi:Shirov,A:-1:
+:1721:Sokolov,I:Adams,Mi:0:
+:1722:Adams,Mi:Stefansson,H:1:
+:1723:Bergsson,S:Adams,Mi:-1:
+:1724:Adams,Mi:Cmilyte,V:1:
+:1725:Adams,Mi:Macieja,B:1:
+:1726:Gurevich,M:Adams,Mi:0:
+:1727:Sutovsky,E:Adams,Mi:1:
+:1728:Adams,Mi:Tregubov,P:1:
+:1729:Adams,Mi:Hjartarson,J:1:
+:1730:Sokolov,I:Adams,Mi:1:
+:1731:Svidler,P:Adams,Mi:0:
+:1732:Adams,Mi:Buhmann,R:1:
+:1733:Adams,Mi:Mullon,J:1:
+:1734:Bologan,V:Adams,Mi:-1:
+:1735:Adams,Mi:Van Wely,L:0:
+:1736:Cornette,M:Adams,Mi:-1:
+:1737:Pert,N:Adams,Mi:-1:
+:1738:Adams,Mi:Haslinger,S:1:
+:1739:Hebden,M:Adams,Mi:0:
+:1740:Adams,Mi:Baklan,V:0:
+:1741:Hamdouchi,H:Adams,Mi:0:
+:1742:Agrest,E:Adams,Mi:0:
+:1743:Adams,Mi:Gallagher,Jo:1:
+:1744:Adams,Mi:Saiboulatov,D:1:
+:1745:Adams,Mi:Saiboulatov,D:1:
+:1746:Sokolov,And:Adams,Mi:0:
+:1747:Bauer,Ch:Adams,Mi:0:
+:1748:Polgar,Ju:Adams,Mi:0:
+:1749:Adams,Mi:Lautier,J:1:
+:1750:Bauer,Ch:Adams,Mi:0:
+:1751:Adams,Mi:Korchnoi,V:1:
+:1752:Gelfand,B:Adams,Mi:0:
+:1753:Adams,Mi:Radjabov,T:1:
+:1754:Fressinet,L:Adams,Mi:0:
+:1755:Bareev,E:Adams,Mi:0:
+:1756:Adams,Mi:Akopian,Vl:0:
+:1757:Rasik,V:Adams,Mi:-1:
+:1758:Babula,V:Adams,Mi:0:
+:1759:Adams,Mi:Zhigalko,S:0:
+:1760:Macieja,B:Adams,Mi:0:
+:1761:Rublevsky,S:Adams,Mi:0:
+:1762:Adams,Mi:Kobalia,M:1:
+:1763:Adams,Mi:Avrukh,B:0:
+:1764:Ponomariov,R:Adams,Mi:0:
+:1765:Topalov,V:Adams,Mi:1:
+:1766:Adams,Mi:Bacrot,E:-1:
+:1767:Bareev,E:Adams,Mi:1:
+:1768:Adams,Mi:Azmaiparashvili,Z:1:
+:1769:Kramnik,V:Adams,Mi:0:
+:1770:Adams,Mi:Gelfand,B:0:
+:1771:Dovramadjiev,T:Adams,Mi:-1:
+:1772:Adams,Mi:Dovramadjiev,T:1:
+:1773:Adams,Mi:Dovramadjiev,T:0:
+:1774:Hansen,SuB:Adams,Mi:0:
+:1775:Adams,Mi:Hansen,SuB:1:
+:1776:Adams,Mi:Hansen,SuB:1:
+:1777:Hansen,SuB:Adams,Mi:0:
+:1778:Adams,Mi:Hansen,SuB:-1:
+:1779:Adams,Mi:Nunn,J:1:
+:1780:Adams,Mi:Nunn,J:1:
+:1781:Nunn,J:Adams,Mi:0:
+:1782:Bacrot,E:Adams,Mi:0:
+:1783:Adams,Mi:Bacrot,E:-1:
+:1784:Bacrot,E:Adams,Mi:0:
+:1785:Bacrot,E:Adams,Mi:1:
+:1786:Adams,Mi:Bacrot,E:1:
+:1787:Adams,Mi:Bacrot,E:-1:
+:1788:Topalov,V:Adams,Mi:0:
+:1789:Adams,Mi:Shirov,A:0:
+:1790:Sokolov,I:Adams,Mi:0:
+:1791:Adams,Mi:Zhang Zhong:1:
+:1792:Leko,P:Adams,Mi:0:
+:1793:Adams,Mi:Bareev,E:1:
+:1794:Akopian,Vl:Adams,Mi:0:
+:1795:Adams,Mi:Kramnik,V:1:
+:1796:Van Wely,L:Adams,Mi:1:
+:1797:Adams,Mi:Anand,V:0:
+:1798:Bologan,V:Adams,Mi:0:
+:1799:Adams,Mi:Timman,J:1:
+:1800:Svidler,P:Adams,Mi:0:
+:1801:Adams,Mi:Banikas,H:1:
+:1802:Hernandez,Gi:Adams,Mi:0:
+:1803:Adams,Mi:Bologan,V:0:
+:1804:Adams,Mi:Kallai,G:1:
+:1805:Galdunts,S:Adams,Mi:-1:
+:1806:Sutovsky,E:Adams,Mi:0:
+:1807:Adams,Mi:Philippe,C:1:
+:1808:Adams,Mi:Bauer,Ch:1:
+:1809:Adams,Mi:Santo Roman,M:1:
+:1810:Shirov,A:Adams,Mi:0:
+:1811:Adams,Mi:Woodward,T:1:
+:1812:Adams,Mi:Rowson,J:0:
+:1813:Leko,P:Adams,Mi:0:
+:1814:Adams,Mi:Akopian,Vl:1:
+:1815:Adams,Mi:Lputian,S:0:
+:1816:Kasparov,G:Adams,Mi:0:
+:1817:Adams,Mi:Gelfand,B:0:
+:1818:Vaganian,R:Adams,Mi:1:
+:1819:Adams,Mi:Asabri,Hu:1:
+:1820:Asabri,Hu:Adams,Mi:-1:
+:1821:Asrian,K:Adams,Mi:0:
+:1822:Adams,Mi:Asrian,K:1:
+:1823:Adams,Mi:Hamdouchi,H:1:
+:1824:Hamdouchi,H:Adams,Mi:0:
+:1825:Nakamura,H:Adams,Mi:-1:
+:1826:Adams,Mi:Nakamura,H:0:
+:1827:Adams,Mi:Akopian,Vl:1:
+:1828:Akopian,Vl:Adams,Mi:0:
+:1829:Radjabov,T:Adams,Mi:-1:
+:1830:Adams,Mi:Radjabov,T:0:
+:1831:Radjabov,T:Adams,Mi:0:
+:1832:Adams,Mi:Radjabov,T:0:
+:1833:Adams,Mi:Kasimdzhanov,R:0:
+:1834:Kasimdzhanov,R:Adams,Mi:1:
+:1835:Adams,Mi:Kasimdzhanov,R:1:
+:1836:Kasimdzhanov,R:Adams,Mi:1:
+:1837:Adams,Mi:Kasimdzhanov,R:1:
+:1838:Kasimdzhanov,R:Adams,Mi:0:
+:1839:Adams,Mi:Kasimdzhanov,R:-1:
+:1840:Kasimdzhanov,R:Adams,Mi:0:
+:1841:Adams,Mi:Maki Uuro,Mi:1:
+:1842:Fejzullahu,A:Adams,Mi:0:
+:1843:Adams,Mi:Kurajica,B:1:
+:1844:Khalifman,A:Adams,Mi:0:
+:1845:Kasparov,G:Adams,Mi:0:
+:1846:Adams,Mi:Ivanchuk,V:0:
+:1847:Rublevsky,S:Adams,Mi:0:
+:1848:Adams,Mi:Haznedaroglu,K:1:
+:1849:Kozul,Z:Adams,Mi:-1:
+:1850:Adams,Mi:Hansen,SuB:1:
+:1851:Adams,Mi:Charbonneau,P:1:
+:1852:Macieja,B:Adams,Mi:0:
+:1853:Adams,Mi:Hernandez,Gi:1:
+:1854:Van Wely,L:Adams,Mi:0:
+:1855:Adams,Mi:Almasi,Z:1:
+:1856:Stefansson,H:Adams,Mi:0:
+:1857:Megaranto,S:Adams,Mi:0:
+:1858:Aleksandrov,A:Adams,Mi:0:
+:1859:Adams,Mi:Rogers,I:0:
+:1860:Adams,Mi:Mitkov,N:1:
+:1861:Adams,Mi:Bologan,V:1:
+:1862:Adams,Mi:Bologan,V:1:
+:1863:Bologan,V:Adams,Mi:0:
+:1864:Adams,Mi:Jakovenko,D:0:
+:1865:Adams,Mi:Jakovenko,D:1:
+:1866:Jakovenko,D:Adams,Mi:-1:
+:1867:Adams,Mi:Psakhis,L:1:
+:1868:Psakhis,L:Adams,Mi:0:
+:1869:Adams,Mi:Psakhis,L:0:
+:1870:Psakhis,L:Adams,Mi:-1:
+:1871:Adams,Mi:Nielsen,PH:-1:
+:1872:Nielsen,PH:Adams,Mi:1:
+:1873:Adams,Mi:Nielsen,PH:0:
+:1874:Grischuk,A:Adams,Mi:1:
+:1875:Adams,Mi:Bareev,E:1:
+:1876:Dreev,A:Adams,Mi:-1:
+:1877:Adams,Mi:Kosyrev,V:-1:
+:1878:Van Wely,L:Adams,Mi:-1:
+:1879:Adams,Mi:Bologan,V:1:
+:1880:Ovetchkin,R:Adams,Mi:0:
+:1881:Adams,Mi:Azmaiparashvili,Z:1:
+:1882:Aleksandrov,A:Adams,Mi:-1:
+:1883:Adams,Mi:Turov,M:0:
+:1884:Dobrov,V:Adams,Mi:1:
+:1885:Adams,Mi:Shipov,S:1:
+:1886:Adams,Mi:Kharlov,A:1:
+:1887:Motylev,A:Adams,Mi:1:
+:1888:Adams,Mi:Rublevsky,S:1:
+:1889:Vlassov,N:Adams,Mi:-1:
+:1890:Panarin,M:Adams,Mi:-1:
+:1891:Adams,Mi:Sakaev,K:1:
+:1892:Short,N:Adams,Mi:0:
+:1893:Adams,Mi:Morozevich,A:1:
+:1894:Bruzon,L:Adams,Mi:0:
+:1895:Adams,Mi:Topalov,V:1:
+:1896:Polgar,Ju:Adams,Mi:0:
+:1897:Adams,Mi:Sokolov,I:0:
+:1898:Leko,P:Adams,Mi:0:
+:1899:Adams,Mi:Svidler,P:0:
+:1900:Ponomariov,R:Adams,Mi:0:
+:1901:Adams,Mi:Kramnik,V:0:
+:1902:Van Wely,L:Adams,Mi:0:
+:1903:Anand,V:Adams,Mi:1:
+:1904:Adams,Mi:Grischuk,A:0:
+:1905:Sakaev,K:Adams,Mi:0:
+:1906:Slobodjan,R:Adams,Mi:-1:
+:1907:Adams,Mi:Rowson,J:0:
+:1908:Topalov,V:Adams,Mi:1:
+:1909:Adams,Mi:Leko,P:0:
+:1910:Kasimdzhanov,R:Adams,Mi:0:
+:1911:Adams,Mi:Vallejo Pons,F:1:
+:1912:Kasparov,G:Adams,Mi:1:
+:1913:Adams,Mi:Anand,V:0:
+:1914:Adams,Mi:Topalov,V:0:
+:1915:Leko,P:Adams,Mi:0:
+:1916:Adams,Mi:Kasimdzhanov,R:0:
+:1917:Vallejo Pons,F:Adams,Mi:0:
+:1918:Adams,Mi:Kasparov,G:-1:
+:1919:Anand,V:Adams,Mi:-1:
+:1920:Adams,Mi:Rocha,S:1:
+:1921:Adams,Mi:Pelletier,Y:0:
+:1922:Anand,V:Adams,Mi:1:
+:1923:Hamdouchi,H:Adams,Mi:0:
+:1924:Gyimesi,Z:Adams,Mi:0:
+:1925:Adams,Mi:Anand,V:0:
+:1926:Adams,Mi:Bates,Ri:1:
+:1927:Charbonneau,P:Adams,Mi:0:
+:1928:Adams,Mi:Svidler,P:0:
+:1929:Adams,Mi:Jussupow,Ar:1:
+:1930:Bologan,V:Adams,Mi:0:
+:1931:Vaisser,A:Adams,Mi:0:
+:1932:Adams,Mi:Kazhgaleyev,M:0:
+:1933:Adams,Mi:Polgar,Ju:0:
+:1934:Topalov,V:Adams,Mi:0:
+:1935:Adams,Mi:Kramnik,V:1:
+:1936:Adams,Mi:Ponomariov,R:0:
+:1937:Anand,V:Adams,Mi:0:
+:1938:Polgar,Ju:Adams,Mi:1:
+:1939:Adams,Mi:Topalov,V:-1:
+:1940:Kramnik,V:Adams,Mi:0:
+:1941:Adams,Mi:Anand,V:-1:
+:1942:Ponomariov,R:Adams,Mi:0:
+:1943:Adams,Mi:Leko,P:1:
+:1944:Leko,P:Adams,Mi:-1:
+:1945:Adams,Mi:Leko,P:1:
+:1946:Leko,P:Adams,Mi:1:
+:1947:Adams,Mi:Leko,P:-1:
+:1948:Leko,P:Adams,Mi:1:
+:1949:Adams,Mi:Leko,P:0:
+:1950:Leko,P:Adams,Mi:0:
+:1951:Adams,Mi:HYDRA:-1:
+:1952:HYDRA:Adams,Mi:1:
+:1953:Adams,Mi:HYDRA:0:
+:1954:HYDRA:Adams,Mi:1:
+:1955:Adams,Mi:HYDRA:-1:
+:1956:HYDRA:Adams,Mi:1:
+:1957:Adams,Mi:Topalov,V:1:
+:1958:Leko,P:Adams,Mi:0:
+:1959:Adams,Mi:Van Wely,L:-1:
+:1960:Adams,Mi:Naiditsch,A:0:
+:1961:Kramnik,V:Adams,Mi:0:
+:1962:Adams,Mi:Nielsen,PH:1:
+:1963:Bacrot,E:Adams,Mi:1:
+:1964:Adams,Mi:Svidler,P:0:
+:1965:Sutovsky,E:Adams,Mi:0:
+:1966:Svidler,P:Adams,Mi:0:
+:1967:Adams,Mi:Polgar,Ju:0:
+:1968:Anand,V:Adams,Mi:1:
+:1969:Topalov,V:Adams,Mi:1:
+:1970:Adams,Mi:Kasimdzhanov,R:0:
+:1971:Adams,Mi:Morozevich,A:0:
+:1972:Leko,P:Adams,Mi:1:
+:1973:Adams,Mi:Svidler,P:0:
+:1974:Polgar,Ju:Adams,Mi:0:
+:1975:Adams,Mi:Anand,V:0:
+:1976:Adams,Mi:Topalov,V:0:
+:1977:Kasimdzhanov,R:Adams,Mi:0:
+:1978:Adams,Mi:Leko,P:0:
+:1979:Morozevich,A:Adams,Mi:0:
+:1980:Adams,Mi:Riazantsev,A:0:
+:1981:Adams,Mi:Riazantsev,A:0:
+:1982:Riazantsev,A:Adams,Mi:0:
+:1983:Riazantsev,A:Adams,Mi:0:
+:1984:Adams,Mi:Riazantsev,A:0:
+:1985:Adams,Mi:Riazantsev,A:1:
+:1986:Riazantsev,A:Adams,Mi:0:
+:1987:Adams,Mi:Fressinet,L:1:
+:1988:Fressinet,L:Adams,Mi:-1:
+:1989:Anand,V:Adams,Mi:1:
+:1990:Anand,V:Adams,Mi:0:
+:1991:Adams,Mi:Anand,V:-1:
+:1992:Tiviakov,S:Adams,Mi:0:
+:1993:Adams,Mi:Topalov,V:1:
+:1994:Gelfand,B:Adams,Mi:1:
+:1995:Adams,Mi:Karjakin,Sergey:0:
+:1996:Aronian,L:Adams,Mi:0:
+:1997:Adams,Mi:Ivanchuk,V:1:
+:1998:Anand,V:Adams,Mi:0:
+:1999:Adams,Mi:Leko,P:0:
+:2000:Kamsky,G:Adams,Mi:-1:
+:2001:Sokolov,Iv:Adams,Mi:0:
+:2002:Adams,Mi:Bacrot,E:0:
+:2003:Van Wely,L:Adams,Mi:0:
+:2004:Adams,Mi:Mamedyarov,S:0:
+:2005:Adams,Mi:Hamdouchi,H:1:
+:2006:Adams,Mi:Cardon,H:1:
+:2007:Adams,Mi:Nisipeanu,LD:0:
+:2008:Gashimov,V:Adams,Mi:0:
+:2009:Adams,Mi:Gregoire,S:1:
+:2010:Johannessen,LE:Adams,Mi:-1:
+:2011:Adams,Mi:Davies,Ni:1:
+:2012:Fressinet,L:Adams,Mi:-1:
+:2013:Adams,Mi:Nikolaidis,I:1:
+:2014:Gurevich,M:Adams,Mi:0:
+:2015:Almasi,Z:Adams,Mi:0:
+:2016:Annaberdiev,M:Adams,Mi:-1:
+:2017:Adams,Mi:Adianto,U:1:
+:2018:Adams,Mi:Gurevich,M:1:
+:2019:Kozlov,R:Adams,Mi:0:
+:2020:Adams,Mi:Granda Zuniga,J:0:
+:2021:Carlsen,M:Adams,Mi:1:
+:2022:Adams,Mi:Gonzalez Zamora,J:1:
+:2023:Aleksandrov,A:Adams,Mi:0:
+:2024:Rowson,J:Adams,Mi:0:
+:2025:Adams,Mi:Ghaem Maghami,E:1:
+:2026:Sedlak,N:Adams,Mi:-1:
+:2027:Adams,Mi:Aronian,L:0:
+:2028:Adams,Mi:Jobava,Ba:0:
+:2029:Leko,P:Adams,Mi:0:
+:2030:Adams,Mi:Gelfand,B:1:
+:2031:Kramnik,V:Adams,Mi:0:
+:2032:Adams,Mi:Naiditsch,A:0:
+:2033:Svidler,P:Adams,Mi:0:
+:2034:Adams,Mi:Timman,J:0:
+:2035:Adams,Mi:Howell,D:1:
+:2036:Visser,Y:Adams,Mi:-1:
+:2037:Adams,Mi:Sokolov,Iv:0:
+:2038:Werle,J:Adams,Mi:0:
+:2039:Adams,Mi:Bosboom Lanchava,T:1:
+:2040:Wells,P:Adams,Mi:-1:
+:2041:Adams,Mi:Speelman,J:0:
+:2042:Day,L:Adams,Mi:-1:
+:2043:Adams,Mi:Levitt,J:1:
+:2044:L'Ami,E:Adams,Mi:0:
+:2045:Landa,K:Adams,Mi:0:
+:2046:Adams,Mi:Nikolic,Pr:0:
+:2047:Adams,Mi:Heidenfeld,M:0:
+:2048:Adams,Mi:Atlas,V:1:
+:2049:Hebden,M:Adams,Mi:1:
+:2050:Adams,Mi:Paehtz,E:1:
+:2051:Caruana,F:Adams,Mi:-1:
+:2052:Adams,Mi:Greenfeld,A:1:
+:2053:Roiz,M:Adams,Mi:0:
+:2054:Adams,Mi:Epishin,V:1:
+:2055:Efimenko,Z:Adams,Mi:1:
+:2056:Adams,Mi:Sandipan,C:1:
+:2057:Gurevich,M:Adams,Mi:0:
+:2058:Adams,Mi:Al Modiahki,M:0:
+:2059:Adams,Mi:Naiditsch,A:0:
+:2060:Adams,Mi:Feller,S:1:
+:2061:Wojtaszek,R:Adams,Mi:0:
+:2062:Adams,Mi:Sasikiran,K:0:
+:2063:Topalov,V:Adams,Mi:0:
+:2064:Adams,Mi:Nisipeanu,LD:1:
+:2065:Kamsky,G:Adams,Mi:0:
+:2066:Adams,Mi:Mamedyarov,S:0:
+:2067:Sasikiran,K:Adams,Mi:1:
+:2068:Adams,Mi:Topalov,V:0:
+:2069:Nisipeanu,LD:Adams,Mi:1:
+:2070:Mamedyarov,S:Adams,Mi:0:
+:2071:Adams,Mi:Kamsky,G:0:
+:2072:Adams,Mi:Shirov,A:0:
+:2073:Shirov,A:Adams,Mi:0:
+:2074:Adams,Mi:Shirov,A:0:
+:2075:Shirov,A:Adams,Mi:-1:
+:2076:Adams,Mi:Shirov,A:0:
+:2077:Shirov,A:Adams,Mi:1:
+:2078:Shirov,A:Adams,Mi:1:
+:2079:Adams,Mi:Shirov,A:-1:
+:2080:Shirov,A:Adams,Mi:0:
+:2081:Miroshnichenko,E:Adams,Mi:-1:
+:2082:Dreev,A:Adams,Mi:0:
+:2083:Adams,Mi:Morozevich,A:0:
+:2084:Socko,B:Adams,Mi:0:
+:2085:Adams,Mi:Motylev,A:0:
+:2086:Adams,Mi:Van Wely,L:0:
+:2087:Timman,J:Adams,Mi:-1:
+:2088:Adams,Mi:Smeets,J:1:
+:2089:Wells,P:Adams,Mi:0:
+:2090:Adams,Mi:Houska,Jo:1:
+:2091:L'Ami,E:Adams,Mi:0:
+:2092:Adams,Mi:Jones,G:1:
+:2093:Speelman,J:Adams,Mi:0:
+:2094:Adams,Mi:Werle,J:1:
+:2095:Adams,Mi:McNab,C:1:
+:2096:Sokolov,Iv NED:Adams,Mi:0:
+:2097:Wang Yue:Adams,Mi:0:
+:2098:Bu Xiangzhi:Adams,Mi:0:
+:2099:Adams,Mi:Ni Hua:1:
+:2100:Adams,Mi:Zhang Pengxiang:-1:
+:2101:Wang Hao:Adams,Mi:0:
+:2102:Adams,Mi:Hou Yifan:1:
+:2103:Ogaard,L:Adams,Mi:-1:
+:2104:Adams,Mi:Smirin,I:1:
+:2105:Adams,Mi:Kempinski,R:0:
+:2106:Milov,V:Adams,Mi:0:
+:2107:Adams,Mi:Georgiev,Ki:1:
+:2108:Adams,Mi:Karjakin,Sergey:-1:
+:2109:Tomashevsky,E:Adams,Mi:0:
+:2110:Grischuk,A:Adams,Mi:1:
+:2111:Adams,Mi:Alekseev,Evgeny:0:
+:2112:Adams,Mi:Navara,D:0:
+:2113:Nyback,T:Adams,Mi:0:
+:2114:Adams,Mi:Berg,E:1:
+:2115:Adams,Mi:Shirov,A:0:
+:2116:Socko,B:Adams,Mi:0:
+:2117:Adams,Mi:Naiditsch,A:0:
+:2118:Jobava,Ba:Adams,Mi:-1:
+:2119:Adams,Mi:Ivanchuk,V:1:
+:2120:Leko,P:Adams,Mi:-1:
+:2121:Adams,Mi:Ponomariov,R:1:
+:2122:Dreev,A:Adams,Mi:0:
+:2123:Adams,Mi:Karpov,Ana:1:
+:2124:Grischuk,A:Adams,Mi:0:
+:2125:Adams,Mi:Mamedyarov,S:1:
+:2126:Anand,V:Adams,Mi:1:
+:2127:Adams,Mi:Gelfand,B:0:
+:2128:Kasimdzhanov,R:Adams,Mi:0:
+:2129:Adams,Mi:Korotylev,A:0:
+:2130:Savchenko,B:Adams,Mi:1:
+:2131:Adams,Mi:Ivanchuk,V:-1:
+:2132:Kamsky,G:Adams,Mi:0:
+:2133:Adams,Mi:Carlsen,M:0:
+:2134:Kramnik,V:Adams,Mi:1:
+:2135:Adams,Mi:Morozevich,A:0:
+:2136:Rublevsky,S:Adams,Mi:1:
+:2137:Adams,Mi:Shirov,A:-1:
+:2138:Bacrot,E:Adams,Mi:-1:
+:2139:Adams,Mi:Leko,P:0:
+:2140:Ponomariov,R:Adams,Mi:1:
+:2141:Adams,Mi:Dreev,A:-1:
+:2142:Karpov,Ana:Adams,Mi:-1:
+:2143:Adams,Mi:Grischuk,A:0:
+:2144:Mamedyarov,S:Adams,Mi:1:
+:2145:Adams,Mi:Anand,V:-1:
+:2146:Gelfand,B:Adams,Mi:1:
+:2147:Adams,Mi:Kasimdzhanov,R:1:
+:2148:Korotylev,A:Adams,Mi:-1:
+:2149:Adams,Mi:Savchenko,B:1:
+:2150:Ivanchuk,V:Adams,Mi:-1:
+:2151:Adams,Mi:Kamsky,G:-1:
+:2152:Carlsen,M:Adams,Mi:1:
+:2153:Adams,Mi:Kramnik,V:1:
+:2154:Morozevich,A:Adams,Mi:0:
+:2155:Adams,Mi:Rublevsky,S:1:
+:2156:Shirov,A:Adams,Mi:-1:
+:2157:Adams,Mi:Bacrot,E:-1:
+:2158:Adams,Mi:Zugic,I:0:
+:2159:Zugic,I:Adams,Mi:-1:
+:2160:Gurevich,M:Adams,Mi:0:
+:2161:Adams,Mi:Gurevich,M:1:
+:2162:Adams,Mi:Zhou Jianchao:1:
+:2163:Zhou Jianchao:Adams,Mi:0:
+:2164:Carlsen,M:Adams,Mi:1:
+:2165:Adams,Mi:Carlsen,M:0:
+:2166:Adams,Mi:Gelfand,B:0:
+:2167:Leko,P:Adams,Mi:0:
+:2168:Adams,Mi:Carlsen,M:0:
+:2169:Anand,V:Adams,Mi:0:
+:2170:Adams,Mi:Kramnik,V:0:
+:2171:Radjabov,T:Adams,Mi:0:
+:2172:Adams,Mi:Mamedyarov,S:0:
+:2173:Eljanov,P:Adams,Mi:0:
+:2174:Adams,Mi:Van Wely,L:1:
+:2175:Adams,Mi:Aronian,L:0:
+:2176:Ivanchuk,V:Adams,Mi:0:
+:2177:Adams,Mi:Polgar,Ju:-1:
+:2178:Topalov,V:Adams,Mi:0:
+:2179:Adams,Mi:Granda Zuniga,J:0:
+:2180:Adams,Mi:Koneru,H:1:
+:2181:Hou Yifan:Adams,Mi:-1:
+:2182:Adams,Mi:Zhang Pengxiang:0:
+:2183:Perez Candelario,Man:Adams,Mi:-1:
+:2184:Adams,Mi:Caruana,F:1:
+:2185:Sargissian,G:Adams,Mi:0:
+:2186:Radjabov,T:Adams,Mi:0:
+:2187:Adams,Mi:Cheparinov,I:1:
+:2188:Karjakin,Sergey:Adams,Mi:1:
+:2189:Adams,Mi:Navara,D:1:
+:2190:Grischuk,A:Adams,Mi:0:
+:2191:Kamsky,G:Adams,Mi:1:
+:2192:Adams,Mi:Bacrot,E:0:
+:2193:Wang Yue:Adams,Mi:0:
+:2194:Adams,Mi:Svidler,P:1:
+:2195:Inarkiev,E:Adams,Mi:0:
+:2196:Adams,Mi:Mamedyarov,S:0:
+:2197:Carlsen,M:Adams,Mi:1:
+:2198:Adams,Mi:Gashimov,V:0:
+:2199:Sargissian,G:Adams,Mi:0:
+:2200:Adams,Mi:Sargissian,G:0:
+:2201:Adams,Mi:Akopian,Vl:0:
+:2202:Akopian,Vl:Adams,Mi:-1:
+:2203:Morozevich,A:Adams,Mi:1:
+:2204:Adams,Mi:Morozevich,A:0:
+:2205:Adams,Mi:Leko,P:-1:
+:2206:Leko,P:Adams,Mi:0:
+:2207:Bu Xiangzhi:Adams,Mi:1:
+:2208:Adams,Mi:Bu Xiangzhi:0:
+:2209:Adams,Mi:Gelfand,B:1:
+:2210:Gelfand,B:Adams,Mi:0:
+:2211:Aronian,L:Adams,Mi:1:
+:2212:Adams,Mi:Aronian,L:0:
+:2213:Smeets,J:Adams,Mi:-1:
+:2214:Adams,Mi:Werle,J:1:
+:2215:L'Ami,E:Adams,Mi:0:
+:2216:Adams,Mi:Timman,J:1:
+:2217:Wade,R:Adams,Mi:-1:
+:2218:Adams,Mi:Short,N:0:
+:2219:Cherniaev,A1:Adams,Mi:0:
+:2220:Wells,P:Adams,Mi:0:
+:2221:Adams,Mi:Speelman,J:1:
+:2222:Sokolov,Iv NED:Adams,Mi:0:
+:2223:Adams,Mi:Van Wely,L:0:
+:2224:Graf,A:Adams,Mi:0:
+:2225:Adams,Mi:Kasimdzhanov,R:0:
+:2226:Mamedov,Rau:Adams,Mi:0:
+:2227:Avrukh,B:Adams,Mi:-1:
+:2228:Adams,Mi:Illescas Cordoba,M:0:
+:2229:Adams,Mi:Kennaugh,C:1:
+:2230:Sebenik,M:Adams,Mi:-1:
+:2231:Adams,Mi:Edouard,R:1:
+:2232:Abergel,T:Adams,Mi:0:
+:2233:Adams,Mi:Meier,Geo:0:
+:2234:Miezis,N:Adams,Mi:-1:
+:2235:Adams,Mi:David,Alb:1:
+:2236:Werle,J:Adams,Mi:0:
+:2237:Adams,Mi:Short,N:0:
+:2238:Gunnarsson,J:Adams,Mi:-1:
+:2239:Adams,Mi:Swinkels,R:0:
+:2240:Meier,Geo:Adams,Mi:0:
+:2241:Adams,Mi:Wang Yue:0:
+:2242:Adams,Mi:Zvjaginsev,V:0:
+:2243:Brkic,A:Adams,Mi:0:
+:2244:Sasikiran,K:Adams,Mi:0:
+:2245:Jakovenko,D:Adams,Mi:0:
+:2246:Alekseev,Evgeny:Adams,Mi:1:
+:2247:Adams,Mi:Alekseev,Evgeny:1:
+:2248:Adams,Mi:Gurevich,M1:1:
+:2249:Hansen,LB:Adams,Mi:0:
+:2250:Adams,Mi:Sorensen,To:1:
+:2251:Carlsen,M:Adams,Mi:1:
+:2252:Adams,Mi:Caruana,F:-1:
+:2253:Adams,Mi:Radjabov,T:0:
+:2254:Adams,Mi:Jobava,Ba:0:
+:2255:Nguyen Ngoc Truong Son:Adams,Mi:-1:
+:2256:Adams,Mi:Wang Yue:0:
+:2257:Palac,M:Adams,Mi:0:
+:2258:Kamsky,G:Adams,Mi:0:
+:2259:Movsesian,S:Adams,Mi:1:
+:2260:Adams,Mi:Dominguez Perez,L:0:
+:2261:Morozevich,A:Adams,Mi:0:
+:2262:Adams,Mi:Smeets,J:0:
+:2263:Wang Yue:Adams,Mi:-1:
+:2264:Adams,Mi:Radjabov,T:0:
+:2265:Stellwagen,D:Adams,Mi:0:
+:2266:Adams,Mi:Carlsen,M:0:
+:2267:Aronian,L:Adams,Mi:1:
+:2268:Adams,Mi:Ivanchuk,V:0:
+:2269:Karjakin,Sergey:Adams,Mi:1:
+:2270:Adams,Mi:Van Wely,L:0:
+:2271:Spoelman,W:Adams,Mi:0:
+:2272:Adams,Mi:Efimenko,Z:0:
+:2273:Buhmann,R:Adams,Mi:0:
+:2274:Adams,Mi:Czarnota,P:0:
+:2275:Adams,Mi:Gordon,S:1:
+:2276:Cherniaev,A1:Adams,Mi:-1:
+:2277:Adams,Mi:D'Costa,L:1:
+:2278:Larino Nieto,D:Adams,Mi:1:
+:2279:Adams,Mi:Caruana,F:1:
+:2280:Cramling,P:Adams,Mi:-1:
+:2281:Adams,Mi:Granda Zuniga,J:0:
+:2282:Perez Candelario,Man:Adams,Mi:0:
+:2283:Adams,Mi:Koneru,H:1:
+:2284:Cheparinov,I:Adams,Mi:0:
+:2285:Adams,Mi:Ventura,Jason:1:
+:2286:Grumic,S:Adams,Mi:-1:
+:2287:Adams,Mi:Pechenkin,V:0:
+:2288:Davies,No:Adams,Mi:-1:
+:2289:Adams,Mi:Bradford,J:1:
+:2290:Mikhalevski,V:Adams,Mi:0:
+:2291:Adams,Mi:Zhao Xue:1:
+:2292:Adams,Mi:Porper,E:0:
+:2293:Krush,I:Adams,Mi:0:
+:2294:Adams,Mi:Van Wely,L:0:
+:2295:Werle,J:Adams,Mi:-1:
+:2296:Adams,Mi:Smeets,J:-1:
+:2297:Sokolov,Ivan:Adams,Mi:0:
+:2298:Adams,Mi:L'Ami,E:0:
+:2299:Van Wely,L:Adams,Mi:0:
+:2300:Adams,Mi:Werle,J:0:
+:2301:Smeets,J:Adams,Mi:0:
+:2302:Adams,Mi:Sokolov,Ivan:0:
+:2303:L'Ami,E:Adams,Mi:0:
+:2304:Fontana Sotomayor,L:Adams,Mi:-1:
+:2305:Magem Badals,J:Adams,Mi:0:
+:2306:Adams,Mi:Negi,P:0:
+:2307:Del Rio de Angelis,S:Adams,Mi:-1:
+:2308:Adams,Mi:Matlakov,M:1:
+:2309:Adams,Mi:Kniest,O:1:
+:2310:Adams,Mi:Meszaros,T:1:
+:2311:Havlicek,L2:Adams,Mi:-1:
+:2312:Adams,Mi:Andriasian,Z:1:
+:2313:Novikov,Vit:Adams,Mi:-1:
+:2314:Adams,Mi:Yemelin,V:0:
+:2315:Adams,Mi:Meins,G:1:
+:2316:Adams,Mi:Radjabov,T:-1:
+:2317:Topalov,V:Adams,Mi:1:
+:2318:Adams,Mi:Bacrot,E:0:
+:2319:Ragger,M:Adams,Mi:0:
+:2320:Adams,Mi:Korchnoi,V:0:
+:2321:Hammer,J:Adams,Mi:0:
+:2322:Adams,Mi:Georgiev,Vl:1:
+:2323:Adams,Mi:Bacrot,E:0:
+:2324:Vallejo Pons,F:Adams,Mi:0:
+:2325:Schenk,An:Adams,Mi:0:
+:2326:Adams,Mi:Michiels,B:1:
+:2327:Howell,D:Adams,Mi:0:
+:2328:Adams,Mi:Nakamura,Hi:0:
+:2329:Ni Hua:Adams,Mi:0:
+:2330:Kramnik,V:Adams,Mi:0:
+:2331:Adams,Mi:Short,N:0:
+:2332:Carlsen,M:Adams,Mi:0:
+:2333:Adams,Mi:McShane,L:1:
+:2334:Adams,Mi:Reizniece,D:1:
+:2335:Harika,D:Adams,Mi:-1:
+:2336:Adams,Mi:Halkias,S:1:
+:2337:Fressinet,L:Adams,Mi:0:
+:2338:Adams,Mi:Koneru,H:1:
+:2339:Gustafsson,J:Adams,Mi:0:
+:2340:Adams,Mi:Zhukova,N:0:
+:2341:Kamsky,G:Adams,Mi:0:
+:2342:Adams,Mi:Lemos,D:1:
+:2343:Adams,Mi:Gustafsson,J:1:
+:2344:Adams,Mi:Gustafsson,J:1:
+:2345:Gustafsson,J:Adams,Mi:1:
+:2346:Adams,Mi:Vallejo Pons,F:1:
+:2347:Vallejo Pons,F:Adams,Mi:0:
+:2348:Vallejo Pons,F:Adams,Mi:0:
+:2349:Adams,Mi:Polzin,R:1:
+:2350:Muse,M:Adams,Mi:0:
+:2351:Adams,Mi:Areshchenko,A:-1:
+:2352:Reeh,O:Adams,Mi:0:
+:2353:Shytaj,L:Adams,Mi:-1:
+:2354:Adams,Mi:Jankovic,A:1:
+:2355:Potkin,V:Adams,Mi:0:
+:2356:Adams,Mi:Martinovic,Sa:1:
+:2357:Iordachescu,V:Adams,Mi:0:
+:2358:Adams,Mi:Sokolov,Ivan:0:
+:2359:Adams,Mi:Macieja,B:0:
+:2360:Markus,Rob:Adams,Mi:0:
+:2361:Adams,Mi:Edouard,R:0:
+:2362:Khairullin,I:Adams,Mi:1:
+:2363:Adams,Mi:Zhigalko,A:1:
+:2364:Fridman,D2:Adams,Mi:0:
+:2365:Adams,Mi:Bischoff,K:1:
+:2366:Greet,A:Adams,Mi:0:
+:2367:Adams,Mi:D'Costa,L:0:
+:2368:Palliser,R:Adams,Mi:-1:
+:2369:Morales Mendoza,Lu:Adams,Mi:-1:
+:2370:Adams,Mi:Sarkar,J:1:
+:2371:Adams,Mi:Vojinovic,G:1:
+:2372:Khachiyan,M:Adams,Mi:0:
+:2373:Sedlak,N:Adams,Mi:0:
+:2374:Adams,Mi:Mitkov,N1:1:
+:2375:Adams,Mi:Akobian,V:1:
+:2376:Adams,Mi:Taddei,B:1:
+:2377:Erdogan,H:Adams,Mi:-1:
+:2378:Can,E:Adams,Mi:-1:
+:2379:Adams,Mi:Savchenko,B:1:
+:2380:Mirzoev,A:Adams,Mi:0:
+:2381:Adams,Mi:Arslan,Erda:1:
+:2382:Atakisi,U:Adams,Mi:-1:
+:2383:Gelashvili,T:Adams,Mi:-1:
+:2384:Adams,Mi:Salepci,O:1:
+:2385:Adams,Mi:Esen,B:1:
+:2386:Eames,R:Adams,Mi:-1:
+:2387:Adams,Mi:Summerscale,A:1:
+:2388:Pert,R:Adams,Mi:-1:
+:2389:Adams,Mi:Rudd,J:1:
+:2390:Slavin,A:Adams,Mi:-1:
+:2391:Adams,Mi:Pert,N:0:
+:2392:Gordon,S:Adams,Mi:-1:
+:2393:Adams,Mi:Conquest,S:1:
+:2394:Hunt,A:Adams,Mi:0:
+:2395:Adams,Mi:Williams,Si1:1:
+:2396:Wells,P:Adams,Mi:0:
+:2397:Mas,H:Adams,Mi:0:
+:2398:Sokolov,Ivan:Adams,Mi:1:
+:2399:Adams,Mi:Solomon,K:1:
+:2400:Adams,Mi:Esen,B:0:
+:2401:Vachier Lagrave,M:Adams,Mi:0:
+:2402:Adams,Mi:Carlsen,M:1:
+:2403:Zhigalko,S:Adams,Mi:0:
+:2404:Adams,Mi:Buhmann,R:1:
+:2405:Jakovenko,D:Adams,Mi:0:
+:2406:Adams,Mi:Van Wely,L:0:
+:2407:Adams,Mi:Navara,D:0:
+:2408:Adams,Mi:Ragger,M:0:
+:2409:Dgebuadze,A:Adams,Mi:-1:
+:2410:Adams,Mi:Bojkov,D:1:
+:2411:Sulskis,S:Adams,Mi:0:
+:2412:Adams,Mi:Gelfand,B:0:
+:2413:Cheparinov,I:Adams,Mi:0:
+:2414:Adams,Mi:Nepomniachtchi,I:0:
+:2415:Stevic,H:Adams,Mi:0:
+:2416:Aronian,L:Adams,Mi:0:
+:2417:Tiviakov,S:Adams,Mi:-1:
+:2418:Adams,Mi:Bogner,S:0:
+:2419:Spoelman,W:Adams,Mi:-1:
+:2420:Adams,Mi:Howell,D:1:
+:2421:Carlsen,M:Adams,Mi:1:
+:2422:Adams,Mi:Short,N:0:
+:2423:McShane,L:Adams,Mi:0:
+:2424:Adams,Mi:Kramnik,V:0:
+:2425:Adams,Mi:Anand,V:0:
+:2426:Nakamura,Hi:Adams,Mi:0:
+:2427:Bates,Ri:Adams,Mi:-1:
+:2428:Adams,Mi:Trent,L:1:
+:2429:Adams,Mi:Monroy,C:1:
+:2430:Dzagnidze,N:Adams,Mi:0:
+:2431:Adams,Mi:Harika,D:1:
+:2432:Buhmann,R:Adams,Mi:0:
+:2433:Adams,Mi:Kosintseva,T:1:
+:2434:Fridman,D:Adams,Mi:0:
+:2435:Adams,Mi:Kulaots,K:0:
+:2436:Ikonnikov,Vy:Adams,Mi:0:
+:2437:Adams,Mi:Lemos,D:0:
+:2438:Kosintseva,N:Adams,Mi:0:
+:2439:Adams,Mi:Slaby,Je:-1:
+:2440:Parker,J:Adams,Mi:0:
+:2441:Adams,Mi:Golod,V:1:
+:2442:Ris,R:Adams,Mi:0:
+:2443:McShane,L:Adams,Mi:-1:
+:2444:Adams,Mi:Meyer,Mal:1:
+:2445:Cheek,Martin:Adams,Mi:-1:
+:2446:Wadsworth,Matthew J:Adams,Mi:1:
+:2447:Wells,P:Adams,Mi:-1:
+:2448:Adams,Mi:Slavin,A:1:
+:2449:McShane,L:Adams,Mi:0:
+:2450:Adams,Mi:Clery,N:1:
+:2451:Pelletier,Y:Adams,Mi:0:
+:2452:Iordachescu,V:Adams,Mi:0:
+:2453:Adams,Mi:Delchev,A:0:
+:2454:Dreev,A:Adams,Mi:0:
+:2455:Getz,A:Adams,Mi:-1:
+:2456:Adams,Mi:Kekelidze,M:1:
+:2457:Lenderman,A:Adams,Mi:-1:
+:2458:Adams,Mi:Ehlvest,J:1:
+:2459:Adams,Mi:Van Wely,L:0:
+:2460:Kamsky,G:Adams,Mi:0:
+:2461:Adams,Mi:Golod,V:1:
+:2462:Kamsky,G:Adams,Mi:1:
+:2463:Harikrishna,P:Adams,Mi:0:
+:2464:Adams,Mi:Gareev,T:0:
+:2465:Adams,Mi:Kolbus,D:1:
+:2466:Hawkins,Jo:Adams,Mi:0:
+:2467:Adams,Mi:Gormally,D:1:
+:2468:Atako,C:Adams,Mi:-1:
+:2469:Adams,Mi:Jones,G:0:
+:2470:Howell,D:Adams,Mi:-1:
+:2471:Adams,Mi:Williams,Si1:1:
+:2472:Short,N:Adams,Mi:0:
+:2473:Adams,Mi:Palliser,R:1:
+:2474:Pert,N:Adams,Mi:0:
+:2475:Adams,Mi:Zhou,Y:0:
+:2476:Short,N:Adams,Mi:0:
+:2477:Adams,Mi:Short,N:1:
+:2478:Sinanan,J:Adams,Mi:-1:
+:2479:Adams,Mi:Mas,H:1:
+:2480:Ruck,R1:Adams,Mi:-1:
+:2481:Adams,Mi:Van Wely,L:0:
+:2482:Amanov,M:Adams,Mi:-1:
+:2483:Adams,Mi:Holt,C:1:
+:2484:Gareev,T:Adams,Mi:0:
+:2485:Adams,Mi:Bojkov,D:0:
+:2486:Hungaski,R:Adams,Mi:-1:
+:2487:Paragua,M:Adams,Mi:-1:
+:2488:Adams,Mi:Paragua,M:0:
+:2489:Adams,Mi:Nielsen,PH:0:
+:2490:Nielsen,PH:Adams,Mi:0:
+:2491:Nielsen,PH:Adams,Mi:0:
+:2492:Adams,Mi:Nielsen,PH:-1:
+:2493:Adams,Mi:Delchev,A:1:
+:2494:Huzman,A:Adams,Mi:-1:
+:2495:Adams,Mi:Sargissian,G:0:
+:2496:Gelfand,B:Adams,Mi:0:
+:2497:Svidler,P:Adams,Mi:0:
+:2498:Adams,Mi:Radjabov,T:-1:
+:2499:Bobras,P:Adams,Mi:0:
+:2500:Adams,Mi:Grachev,B:0:
+:2501:Firman,N:Adams,Mi:0:
+:2502:Miezis,N:Adams,Mi:-1:
+:2503:Adams,Mi:Banikas,H:0:
+:2504:Adams,Mi:Aronian,L:0:
+:2505:Sutovsky,E:Adams,Mi:0:
+:2506:Adams,Mi:Sulskis,S:1:
+:2507:Navara,D:Adams,Mi:-1:
+:2508:Wojtaszek,R:Adams,Mi:0:
+:2509:Adams,Mi:Nyback,T:0:
+:2510:Adams,Mi:Ivanchuk,V:1:
+:2511:Adams,Mi:Anand,V:0:
+:2512:Howell,D:Adams,Mi:0:
+:2513:Adams,Mi:McShane,L:-1:
+:2514:Adams,Mi:Short,N:-1:
+:2515:Kramnik,V:Adams,Mi:1:
+:2516:Adams,Mi:Aronian,L:0:
+:2517:Carlsen,M:Adams,Mi:1:
+:2518:Nakamura,Hi:Adams,Mi:1:
+:2519:Adams,Mi:Ragger,M:0:
+:2520:Parligras,M:Adams,Mi:0:
+:2521:Adams,Mi:Zhukova,N:1:
+:2522:Berg,E:Adams,Mi:-1:
+:2523:Adams,Mi:Fridman,D:1:
+:2524:Hou Yifan:Adams,Mi:0:
+:2525:Adams,Mi:Brunello,S:1:
+:2526:Gopal,G:Adams,Mi:0:
+:2527:Adams,Mi:Howell,D:1:
+:2528:Adams,Mi:Mamedyarov,S:0:
+:2529:Almasi,Z:Adams,Mi:0:
+:2530:Bologan,V:Adams,Mi:0:
+:2531:Adams,Mi:Morrison,G SCO:1:
+:2532:Hunt,A:Adams,Mi:-1:
+:2533:Adams,Mi:Short,P:1:
+:2534:Ansell,S:Adams,Mi:-1:
+:2535:Adams,Mi:Jones,G:0:
+:2536:Williams,Si1:Adams,Mi:-1:
+:2537:Adams,Mi:Short,N:0:
+:2538:Galego,L:Adams,Mi:-1:
+:2539:Adams,Mi:Fressinet,L:1:
+:2540:Spoelman,W:Adams,Mi:-1:
+:2541:Bindrich,F:Adams,Mi:0:
+:2542:Adams,Mi:Neubauer,M:0:
+:2543:Adams,Mi:Paehtz,E:1:
+:2544:Williams,Si1:Adams,Mi:-1:
+:2545:Turner,Ma:Adams,Mi:-1:
+:2546:Adams,Mi:Troff,Kayden W:0:
+:2547:Ludwig,Dan:Adams,Mi:1:
+:2548:Adams,Mi:Black,James A:1:
+:2549:Amanov,Z:Adams,Mi:-1:
+:2550:Kacheishvili,G:Adams,Mi:0:
+:2551:Adams,Mi:Hess,Ro:0:
+:2552:Adams,Mi:Perunovic,Mil:0:

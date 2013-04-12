@@ -1,0 +1,49 @@
+// Main Engine
+string engine(char* filename);
+
+// Fetch raw data
+data_from_input convert_str2data(string move, int turn);
+        char fetch_conflict (string move);
+
+// For castling case
+map<string, Piece> do_castling(map<string, Piece> init_map, string type, char color);
+string fen_castling(string castling, string type, char color);
+
+// Fetch Piece that is currently moving
+Piece get_Piece(map<string, Piece> init_map, string type, char color, cell destination, char conflict);
+
+// Get all valid pawns (below the destination i.e.)
+vector<Piece> get_valid_pawn_pieces (map <string, Piece> init_map, cell destination, char color);
+
+// Get all valid pieces
+vector<Piece> get_valid_all_pieces (map <string, Piece> init_map, char color, char type);
+
+// If conflict, present, find the match
+Piece find_matches(vector<Piece> init_list, char ch);
+Piece find_matches(vector<Piece> init_list, int i);
+
+// Filter by slope and distance
+vector<Piece> filterSlope(vector<Piece> candidates, cell destination, char type);
+Piece filterDistance(vector<Piece> candidates, cell destination, char type);
+double returnDist(Piece cfinal, cell cinitial);
+
+// Chk if captured piece is pawn
+bool is_capture_pawn(map<string, Piece> init_map, cell destination);
+
+// Delete from map
+map<string, Piece> capture(map<string,Piece> init_map, cell destination);
+
+// Takes care of promotion insertion
+map <string, Piece> insert_promoted_piece(map <string, Piece> init_map, char promote_type, cell destination, char promote_color);
+
+// Update Map
+map<string, Piece> update_map(map<string, Piece>init_map, Piece current_Piece, cell destination);
+
+// Final FEN generator
+string FEN_generator(map<string, Piece>,char active_color,string castling_availability,cell enpassant_target, int halfMoves,int fullMoves);
+
+// FEN generator helper functions
+string intToString(int x);
+int get_index(char c);
+
+int abs(int i);

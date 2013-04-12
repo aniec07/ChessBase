@@ -1,0 +1,26 @@
+typedef struct{
+        bool is_chkmate;
+        bool is_castling;
+	char promotion;
+        char conflict;
+        int row;
+        char column;
+        string type;
+        char color;
+        bool isAlive;
+        bool is_capture;
+        
+}data_from_input;
+
+typedef struct{
+        int row;
+        char column;
+        string type;
+        char color;
+        bool isAlive;
+}Piece;
+
+typedef struct {
+        int row;
+        char column;
+} cell;

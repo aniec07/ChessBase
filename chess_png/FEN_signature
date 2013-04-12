@@ -1,0 +1,14 @@
+typedef struct{
+	int row;
+	char column;
+	string type;
+	char color;
+	bool isAlive;
+}Piece;
+
+typedef struct {
+	int row;
+	char column;
+} cell;
+
+string FEN_generator(map<string, Piece>,char active_color,string castling_availability, cell enpassant_target, int halfMoves,int fullMoves);
